@@ -2,17 +2,27 @@
 
   <title>{{ .Title }} | {{ $.Site.Title }}</title>
 
-  {{ $stylesheet := .Site.Data.webpack.main }}
-  {{ with $stylesheet.css }}
-    <link href="{{ relURL . }}" rel="stylesheet">
-  {{ end }}
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-163342699-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
 
+	  gtag('config', 'UA-163342699-1');
+	</script>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0, user-scalable=yes">
+  	<base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
 
-	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Didact+Gothic|Cormorant+Garamond:wght@1,600" rel="stylesheet">
+	<link rel="stylesheet" href="./css/featherlight.min.css" type="text/css">
+
+  	{{ $stylesheet := .Site.Data.webpack.main }}
+  	{{ with $stylesheet.css }}
+    	<link href="{{ relURL . }}" rel="stylesheet">
+  	{{ end }}
 
 	<!-- Favicons -->
 	<link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
@@ -23,10 +33,13 @@
 	<meta name="theme-color" content="#fff">
 
 	<!-- Open Graph -->
-	<meta property="og:type" content="business.business">
-	<meta property="og:title" content="Kaldi | Great coffee with a conscience">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="A.D. Sterling | Writer">
 	<meta property="og:url" content="/">
 	<meta property="og:image" content="/img/og-image.jpg">
+	<meta property="og:description" content="A.D. Sterling is the author of the Somnium book series, including Book 1, Beyond the Darkness" />
+	<meta property="og:url" content="https://www.adsterling.com/" />
+	<meta property="og:site_name" content="A.D. Sterling" />
 
   {{ if .IsHome }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
