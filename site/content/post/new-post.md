@@ -2,7 +2,7 @@
 title: Self-Publishing vs Traditional
 date: 2020-05-16T14:12:46.081Z
 description: I chose to self-publish my first book. Here's why.
-image: img/img_1989.jpg
+image: img/img_2026.jpg
 ---
 I'm going to start this out by saying I don't know much about the publishing industry in general and I'm certainly no expert (I'm very much learning as I go). I can't say if self-publishing is better or worse than traditional publishing, but based on what I've read, it really comes down to personal preference. If you write a quality book there's a good chance readers will find you either way.
 
