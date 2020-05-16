@@ -12,20 +12,20 @@ Self-publishing has its own list of down sides as well, much of which boil down 
 
 1. Time
 
-   1. Researching what to do and how to do it.
-   2. If you're going to upload your book to various platforms (like Amazon, IngramSpark and Barnes & Noble) expect to spend a fair amount of time formatting and reformatting your files based on their unique requirements.
-   3. Getting your book out there, whether through social media, contacting book stores directly or creating your own marketing materials.
-   4. Setting up a website, unless you opt to have someone else do it for you. In which case, more money.
+   * Researching what to do and how to do it.
+   * If you're going to upload your book to various platforms (like Amazon, IngramSpark and Barnes & Noble) expect to spend a fair amount of time formatting and reformatting your files based on their unique requirements.
+   * Getting your book out there, whether through social media, contacting book stores directly or creating your own marketing materials.
+   * Setting up a website, unless you opt to have someone else do it for you. In which case, more money.
 2. Money
 
-   1. A quality editor is going to cost you.
-   2. Purchasing your own ISBNs, which I highly recommend.
-   3. Setting up a website and having your own domain name.
-   4. With no publisher backing you, you're only going to make money on what sells. So no one's paying you to write that next novel.
-   5. Depending on how and where you decide to try and distribute your book there can be costs associated with listing it.
-   6. If you want to give out copies of your book you have to purchase them yourself.
-   7. The cost for marketing and promotional materials comes out of your pocket.
-   8. Anything you can't do yourself you'll need to hire someone else to do, like creating your cover.
+   * A quality editor is going to cost you.
+   * Purchasing your own ISBNs, which I highly recommend.
+   * Setting up a website and having your own domain name.
+   * With no publisher backing you, you're only going to make money on what sells. So no one's paying you to write that next novel.
+   * Depending on how and where you decide to try and distribute your book there can be costs associated with listing it.
+   * If you want to give out copies of your book you have to purchase them yourself.
+   * The cost for marketing and promotional materials comes out of your pocket.
+   * Anything you can't do yourself you'll need to hire someone else to do, like creating your cover.
 
 I have a unique background that positioned me well to take all this on. My background is web development, so navigating self-publishing websites and setting up my own was all doable for me. I also had the great fortune to have grown up in a printing business, so I understand the terminology and have experience with all of the software used in creating the necessary files. And perhaps luckiest of all, I'm married to an artist so I was able to get my cover created free of charge.
 
