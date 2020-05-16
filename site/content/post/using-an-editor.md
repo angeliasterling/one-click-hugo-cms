@@ -1,5 +1,5 @@
 ---
-title: Using an Editor
+title: "Self-Publishing: Using an Editor"
 date: 2020-05-16T14:12:46.081Z
 description: "This is hands down the #1 place to spend your money."
 image: img/img_2025.jpg
