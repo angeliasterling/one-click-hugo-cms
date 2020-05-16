@@ -4,7 +4,7 @@ date: 2020-05-16T14:12:46.081Z
 description: "This is hands down the #1 place to spend your money."
 image: img/img_2025.jpg
 ---
-When I was nearing the end of writing my first novel I questioned using an editor and what services were worth spending the money on. I received quotes from a few different editing firms, and I'm not going to lie, choked on my coffee when I read them. I truly had no idea how much a good editor was going to cost me.
+When I was nearing the end of writing my first novel I questioned using an editor and what services were worth spending the money on. I received quotes from a few different editing firms, and I'm not going to lie, choked on my coffee when reading them. I truly had no idea how much a good editor was going to cost me.
 
 Initially I decided I would pay for a Line Edit (having an editor fix grammatical errors and clean up my writing). I figured this would be sufficient considering at that point I had written and rewritten my first novel at least 6 times. In my mind, the story itself was pretty solid. After discussing it with anyone who would listen I was convinced to invest in both a Comprehensive Edit (having an editor ensure the story makes sense and is cohesive) and the Line Edit.
 
