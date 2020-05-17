@@ -1,6 +1,8 @@
 {{ define "main" }}
 
-{{ partial "somnium-book" (dict "imageUrl" .Params.book1.image "title" .Params.book1.title "release" .Params.book1.release "text" .Params.book1.text) }}
+<div id="books" class="content-section">
+	{{ partial "somnium-book1" (dict "imageUrl" .Params.book1.image "title" .Params.book1.title "release" .Params.book1.release "text" .Params.book1.text) }}
+</div>
 
 {{ partial "short-text" .Params.blurb}}
 
