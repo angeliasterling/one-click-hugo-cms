@@ -45,6 +45,8 @@ nav a:hover {
 h1 {
     margin: 10px -10px 30px;
     font-size: 1.7em;
+    font-family: Cormorant Garamond,serif;
+    font-weight: bold;
 }
 
 @media (max-width: 768px) {
@@ -262,6 +264,14 @@ a:hover {
     text-shadow: 2px 1px 2px #333;
 }
 
+@media (max-width: 768px) {
+  .buy-book {
+    float: right;
+    margin-top: 2rem;
+    margin-right: 3rem;
+  }
+}
+
 /* book actions */
 .actions {
     text-align: center;
@@ -293,7 +303,6 @@ a:hover {
 
 /* marketing section */
 .marketing-block {
-  text-align: center;
   max-width: 800px;
   background-color: rgba(1, 107, 96, .5);
   border-radius: 22px;
