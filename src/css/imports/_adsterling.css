@@ -7,7 +7,7 @@ body {
     background-size: cover;
 }
 
-.navbar {
+nav {
     overflow: hidden;
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
@@ -16,7 +16,7 @@ body {
     z-index: 100;
 }
 
-.navbar::before {
+nav::before {
   content: "";
   position: absolute;
   top: 0; 
