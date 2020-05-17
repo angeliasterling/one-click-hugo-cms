@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+{{ partial "somnium-book" (dict "imageUrl" .Params.image "title" .Title "release" Params.Release "text" .Params.text) }}
 
 {{ partial "short-text" .Params.blurb}}
 

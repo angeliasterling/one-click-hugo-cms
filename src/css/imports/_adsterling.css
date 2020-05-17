@@ -25,6 +25,6 @@ nav::before {
   height: 100%;
   z-index: -1;
   background: url("/img/torn-edge.png");
-  background-position: 0 -26px;
+  background-position: 0 -18px;
   background-repeat: repeat-x;
 }
