@@ -4,7 +4,7 @@ subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 book1:
   title: Beyond the Darkness (Book 1)
-  release: Release Date: April 28, 2020
+  release: April 28, 2020
   image: /img/SOMNIUM_btd_cover.jpg
   text: <p class="quote">Maybe she hadn’t always done everything she could to help her brother in the past, but she wasn’t going to let that stop her now.</p>
 
