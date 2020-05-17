@@ -1,13 +1,13 @@
 {{ define "main" }}
 
-<div class="mw6 center content-section pt3">
+<div class="mw6 center content-section pt3 pb4">
     <div class="mw7 center">
         <h1 class="f2 lh-title b mb3">Self-Publishing</h1>
     	<div>I've documented my self-publishing journey.</div>
     </div>
 </div>
 <div class="mw7 center">
-  <ul class="flex-ns flex-wrap mhn1-ns pa3">
+  <ul class="flex-ns flex-wrap mhn1-ns pa4">
       {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
           <div class="w-50-ns ph1-ns flex">
             {{ .Render "li"}}
