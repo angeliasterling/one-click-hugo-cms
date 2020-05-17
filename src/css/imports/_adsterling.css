@@ -264,11 +264,17 @@ a:hover {
     text-shadow: 2px 1px 2px #333;
 }
 
+.buy-book {
+  float: right;
+  margin-top: 2rem;
+  margin-right: 3rem;
+}
+
 @media (max-width: 768px) {
   .buy-book {
-    float: right;
-    margin-top: 2rem;
-    margin-right: 3rem;
+    float: initial;
+    margin-top: 0;
+    margin-right: 0;
   }
 }
 
