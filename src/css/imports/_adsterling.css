@@ -141,6 +141,7 @@ h4 {
 .content-section p {
     text-align: justify;
     font-size: .9em;
+    max-width: none;
 }
 
 .content-section p.quote {
@@ -266,8 +267,7 @@ h4 {
 
 /* book actions */
 .actions {
-    float: right;
-    margin-right: 50px;
+    text-align: center;
 }
 
 .actions::after {

@@ -23,6 +23,11 @@ collections: # A list of collections the CMS should be able to edit
         name: "home"
         fields:
           - {label: Title, name: title, widget: string}
+      - file: "site/content/_blog.md"
+        label: "Blog"
+        name: "blog"
+        fields:
+          - {label: Title, name: title, widget: string}
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"
