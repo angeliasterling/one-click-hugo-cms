@@ -8,6 +8,18 @@
 			<li><a class="primary" href="/post/self-publishing-traditional-vs-self-publishing/">Self-Publishing: Traditional vs Self-Publishing</a></li>
 			<li><a class="primary" href="/post/self-publishing-using-an-editor/">Self-Publishing: Using an Editor</a></li>
 		</ul>
+
+		<div class="mw7 center">
+		  <ul class="flex-ns flex-wrap mhn1-ns pa3">
+		      {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
+		          <div class="w-50-ns ph1-ns flex">
+		            {{ .Render "li"}}
+		          </div>
+		      {{ end }}
+		  </ul>
+		  {{ partial "pagination" . }}
+		</div>
     </div>
+  </div>
 
 {{ end }}
