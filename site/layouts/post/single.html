@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-  <div class="mw6 center content-section">
+  <div class="mw6 center content-section pt3">
     <div class="mw7 center">
       <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
       <div class="flex justify-between grey-3">
@@ -8,7 +8,7 @@
         <p>Read in {{ .ReadingTime }} minutes</p>
       </div>
     </div>
-    <div class="cms mw6 center">
+    <div class="cms mw6 center pb3">
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
