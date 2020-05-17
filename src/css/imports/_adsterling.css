@@ -1,6 +1,6 @@
 body {
     font-family: 'Didact Gothic', sans-serif;
-    background-image: url("../../../site/static/img/top-image4.jpg");
+    background-image: url("/img/top-image4.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -24,7 +24,7 @@ body {
   width: 100%; 
   height: 100%;
   z-index: -1;
-  background: url("../../../site/static/img/torn-edge.png");
+  background: url("/img/torn-edge.png");
   background-position: 0 -26px;
   background-repeat: repeat-x;
 }
