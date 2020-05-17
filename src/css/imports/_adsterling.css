@@ -36,6 +36,27 @@ nav a:hover {
   color: var(--primary);
 }
 
+@media (max-width: 768px) {
+  .mobile-nav {
+      width: 110px;
+      display: block;
+      right: 5px;
+      top: 60px;
+      position: absolute;
+      background-color: #eee7d4;
+      border: solid 1px grey;
+  }
+}
+
+.mobile-only {
+  display: none;
+}
+@media (max-width: 768px) {
+  .mobile-only {
+    display: block;
+  }
+}
+
 .hidden {
     display: none;
 }
@@ -138,7 +159,7 @@ a:hover {
 
 @media (max-width: 768px) {
     .content-section#about {
-        margin-top: 110px;
+        margin-top: 30px;
     }
 }
 
