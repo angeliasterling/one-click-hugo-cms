@@ -2,12 +2,17 @@
 title: A.D. Sterling
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
-blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+book1:
+  title: Beyond the Darkness (Book 1)
+  release: Release Date: April 28, 2020
+  image: /img/SOMNIUM_btd_cover.jpg
+  text: <p class="quote">Maybe she hadn’t always done everything she could to help her brother in the past, but she wasn’t going to let that stop her now.</p>
+
+        <p>Isla finds her younger brother Ethan frustrating, he finds her overbearing. When a traumatic event leaves Ethan in a coma, Isla grapples with feelings of guilt. She soon becomes concerned that her brother might be in real danger.</p>
+
+        <p>Their lives are turned upside down when Isla learns of a family secret that her father has worked hard to keep hidden. Why don’t they ever see their grandmother? And what happened to their mother on the day she died? What secrets did she know?</p>
+
+        <p>Ethan and Isla's destinies become entwined as they begin a journey neither could have imagined. They will have to mend their broken relationship and work together as a team in order to escape the nightmarish grip holding them beyond the darkness.</p>
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
