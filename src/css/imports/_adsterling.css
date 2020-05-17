@@ -97,6 +97,12 @@ nav::before {
     margin-bottom: 30px;
 }
 
+*, *:before, *:after {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
 /* Somnium Logo */
 
 .somnium {
