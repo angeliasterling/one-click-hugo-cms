@@ -33,7 +33,7 @@ nav::before {
   background-repeat: repeat-x;
 }
 
-nav a: hover {
+nav a:hover {
   color: var(--primary);
 }
 
