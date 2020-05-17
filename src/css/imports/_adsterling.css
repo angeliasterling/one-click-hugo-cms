@@ -39,7 +39,6 @@ nav a:hover {
 @media (max-width: 768px) {
   .mobile-nav {
       width: 110px;
-      display: block;
       right: 5px;
       top: 60px;
       position: absolute;
