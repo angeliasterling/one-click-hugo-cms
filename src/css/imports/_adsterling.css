@@ -44,6 +44,7 @@ nav a:hover {
       position: absolute;
       background-color: #eee7d4;
       border: solid 1px grey;
+      z-index: 100;
   }
 }
 
@@ -63,7 +64,7 @@ nav a:hover {
     display: none;
   }
 
-  .hamburger:hover ~ .mobile-nav {
+  .hamburger:hover ~ .mobile-nav, .mobile-nav:hover {
     display: block;
   }
 }
