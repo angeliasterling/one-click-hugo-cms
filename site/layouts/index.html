@@ -1,12 +1,16 @@
 {{ define "main" }}
 
 <div id="books" class="content-section">
-	{{ partial "somnium-book1" (dict "imageUrl" .Params.book1.image "title" .Params.book1.title "release" .Params.book1.release "text" .Params.book1.text) }}
+	{{ partial "somnium-book1" }}
 </div>
 
-{{ partial "short-text" .Params.blurb}}
+<div id="inprogress" class="content-section">
+	{{ partial "somnium-book2" }}
+</div>
 
-{{ partial "2-up" .Params }}
+<div id="about" class="content-section">
+	{{ partial "author-copy" }}
+</div>
 
 {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
 

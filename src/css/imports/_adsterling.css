@@ -29,6 +29,8 @@ nav::before {
   background-repeat: repeat-x;
 }
 
+/* Content Section */
+
 .content-section {
     box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)!important;
     padding: 20px;
@@ -55,6 +57,12 @@ nav::before {
   background: url("/img/paper-background.jpg");
 }
 
+.content-section::after {
+    clear: both;
+    content: "";
+    display: block;
+}
+
 @media (max-width: 768px) {
     .content-section {
         margin: 15px 1em;
@@ -76,6 +84,21 @@ nav::before {
     }
 }
 
+.content-section p:first-of-type {
+    margin-top: 0;
+}
+
+.content-section p {
+    text-align: justify;
+}
+
+.content-section p.quote {
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+/* Somnium Logo */
+
 .somnium {
     background-image: url("/img/somnium.png");
     background-size: cover;
@@ -86,4 +109,203 @@ nav::before {
 
 .somnium-text {
     font-family: 'Cormorant Garamond', serif;
+}
+
+/* btn */
+.btn {
+    background-color: #009688;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    border: none;
+    text-align: center;
+    cursor: pointer;
+    width: auto;
+}
+
+.btn:hover {
+    background-color: grey;
+}
+
+@media (max-width: 768px) {
+    .btn {
+        margin-top: 10px;
+        margin-bottom: 0;
+        display: inline-block;
+    }
+}
+
+/* book section */
+.book-text a {
+    text-decoration: none;
+}
+
+.book-content {
+    clear: both;
+}
+
+.book-text {
+    padding: 0 50px;
+}
+
+@media (max-width: 768px) {
+    .book-text {
+        padding: 0 10px;
+    }
+}
+
+.book-image {
+    float: left;
+    max-width: 200px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    transform: rotate(-3deg);
+    background-color: grey;
+    height: 310px;
+    width: 215px;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)!important;
+}
+
+@media (max-width: 768px) {
+    .book-image {
+        float: none;
+        margin: 0 0 40px;
+    }
+}
+
+.book-image img {
+    width: 200px;
+}
+
+.release-date {
+    margin: 0 0 40px;
+}
+
+@media (max-width: 768px) {
+    .release-date {
+        margin-bottom: 0 0 20px;
+    }
+}
+
+.book-image.right {
+    float: right;
+    margin-left: 30px;
+    margin-right: 0;
+    transform: rotate(3deg);
+}
+
+.book-image h4 {
+    text-align: center;
+    padding: 60px;
+    line-height: 2em;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 2px 1px 2px #333;
+}
+
+/* book actions */
+.actions {
+    float: right;
+    margin-right: 50px;
+}
+
+.actions::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+@media (max-width: 768px) {
+    .actions {
+        float: none;
+        margin-right: 0;
+    }
+}
+
+.actions a {
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.bottom-link {
+text-align: center;
+    clear: both;
+    padding-top: 30px;
+}
+
+.bottom-link a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.bottom-link a:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    a.read-chapter {
+        float: none;
+        text-align: center;
+        width: 100%;
+        display: inline-block;
+    }
+}
+
+a.read-chapter:hover {
+    opacity: 1;
+}
+
+/* author section */
+#about {
+    padding: 30px 70px 30px 60px;
+}
+
+@media (max-width: 768px) {
+    #about {
+        padding: 40px 20px;
+    }
+}
+
+.author-image {
+    float: left;
+    max-width: 200px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    transform: rotate(-3deg);
+    margin-left: 10px;
+}
+
+@media (max-width: 768px) {
+    .author-image {
+        float: none;
+    }
+}
+
+.author-image img {
+    width: 100%;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)!important;
+}
+
+.author-image .photo-credit {
+    text-align: center;
+    width: 100%;
+    font-size: .8em;
+    font-style: italic;
+    margin-top: 5px;
+}
+
+.author-content {
+    padding: 0px;
+}
+
+@media (max-width: 768px) {
+    .author-content {
+        padding: 0 10px;
+    }
 }
