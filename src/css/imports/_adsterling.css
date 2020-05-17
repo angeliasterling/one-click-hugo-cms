@@ -33,6 +33,10 @@ nav::before {
   background-repeat: repeat-x;
 }
 
+nav a: hover {
+  color: var(--primary);
+}
+
 .hidden {
     display: none;
 }
@@ -175,9 +179,8 @@ h4 {
     box-shadow: none;
     color: white;
     text-decoration: none;
-    padding: 10px 20px;
+    padding: 6px 20px;
     border-radius: 5px;
-    margin-top: 20px;
     border: none;
     text-align: center;
     cursor: pointer;
@@ -236,16 +239,6 @@ h4 {
 
 .book-image img {
     width: 200px;
-}
-
-.release-date {
-    margin: 0 0 40px;
-}
-
-@media (max-width: 768px) {
-    .release-date {
-        margin-bottom: 0 0 20px;
-    }
 }
 
 .book-image.right {

@@ -51,7 +51,7 @@ sup {
 
 /* Measure is limited to ~45 characters */
 .measure-narrow {
-  max-width: 25em;
+  max-width: 20em;
 }
 
 /* Book paragraph style - paragraphs are indented with no vertical spacing. */
