@@ -19,7 +19,7 @@ The following information is required to set up your ISBN:
 * Title Status (this will most likely be "Active Record" if you are setting up a new book to sell)
 * Price (this is the price you intend to have listed on the back of the book)
 
-There are other fields available that I would recommend filling in as it will help services find your book, but that is something you can always go back and fill in later. Just be aware that any changes you make require that same 48 hour "processing" period before they are considered live.
+There are other fields available that I would recommend filling in as it will help services find your book, but that is something you can always go back and fill in later. Just be aware that any changes you make require that same up to 48 hour "processing" period before they are considered live.
 
 **Publication Date**
 
