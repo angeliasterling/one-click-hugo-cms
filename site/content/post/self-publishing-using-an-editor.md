@@ -8,9 +8,9 @@ When I was nearing the end of writing my first novel I questioned using an edito
 
 There are 2 typical types of edits you can have done for your book:
 
-1. Comprehensive Edit: this is where an editor reads your manuscript and focuses on the storyline, making sure you have a cohesive story that makes sense for the reader. They may also include some Line Editing, but don't expect all spelling and grammatical errors to be caught.
+**Comprehensive Edit**: this is where an editor reads your manuscript and focuses on the storyline, making sure you have a cohesive story that makes sense for the reader. They may also include some Line Editing, but don't expect all spelling and grammatical errors to be caught.
 
-2. Line Edit: when an editor reads through for a line edit they are really focusing on the grammatical and spelling errors, but they may still call out issues with your storyline.
+**Line Edit**: when an editor reads through for a line edit they are really focusing on the grammatical and spelling errors, but they may still call out issues with your storyline.
 
 Initially I decided I would pay for a Line Edit. I figured this would be sufficient considering at that point I had written and rewritten my first novel at least 6 times. In my mind, the story itself was pretty solid. After discussing it with anyone who would listen I was convinced to invest in both a Comprehensive Edit and the Line Edit.
 
