@@ -8,14 +8,14 @@ I was quickly turned off by the idea of traditional publishing due to the length
 
 Self-publishing has its own list of down sides as well that I think are important to note. Much of it boils down to having to do the work yourself and invest your own money to get your project off the ground. Like a lot of things in life, it's all about time and money.
 
-**1. Time**
+**Time**
 
 * Researching what to do and how to do it.
 * If you're going to upload your book to various platforms (like Amazon and IngramSpark) expect to spend a fair amount of time formatting and reformatting your files based on their unique requirements.
 * Getting your book out there, whether through social media, contacting book stores directly or creating your own marketing materials.
 * Setting up a website, unless you opt to have someone else do it for you. In which case, more money.
 
-**2. Money**
+**Money**
 
 * A quality editor is going to cost you. [Read more](post/self-publishing-using-an-editor/) about why this is important.
 * Purchasing your own ISBNs, which I highly recommend. Learn why [here](post/entries/self-publishing-purchasing-isbns).
