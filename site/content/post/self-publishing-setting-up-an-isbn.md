@@ -23,7 +23,7 @@ There are other fields available that I would recommend filling in as it will he
 
 **Publication Date**
 
-For me this was a "chicken before the egg" scenario. I couldn't list my book on Amazon without an ISBN and without knowing how long it would take to be approved in both systems I couldn't list a date with certainty. I selected a publication date 4 days ahead assuming it could take 2 days for the ISBN approval and 2 days for Amazon to list my book. In reality, it took a day for each so my actual "publication date" on Amazon ended up being earlier than the date listed on my ISBN record. They tell you not to adjust the publication date in Bowker, so I have to assume this is acceptable.
+For me this was a "chicken before the egg" scenario. I couldn't list my book on Amazon without an ISBN and without knowing how long it would take to be approved in both systems I couldn't list a date with certainty. I selected a publication date 4 days ahead assuming it could take 2 days for the ISBN approval and 2 days for Amazon to list my book. In reality, it took about a day for each so my actual "publication date" on Amazon ended up being earlier than the date listed on my ISBN record. They tell you not to adjust the publication date in Bowker, so I have to assume this is acceptable.
 
 **Multiple Formats**
 
