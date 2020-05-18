@@ -1,6 +1,6 @@
 ---
 title: "Self-Publishing: Traditional vs Self-Publishing"
-date: 2020-05-16T21:57:48.017Z
+date: 2020-05-15T21:57:00.000Z
 description: I chose to self-publish my first book. Here's why.
 image: img/img_2026.jpg
 ---
