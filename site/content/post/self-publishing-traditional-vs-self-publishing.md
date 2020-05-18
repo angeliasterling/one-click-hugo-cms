@@ -17,7 +17,7 @@ Self-publishing has its own list of down sides as well that I think are importan
 
 **2. Money**
 
-* A quality editor is going to cost you. [Read more](/self-publishing-using-an-editor/) about why this is important.
+* A quality editor is going to cost you. [Read more](post/self-publishing-using-an-editor/) about why this is important.
 * Purchasing your own ISBNs, which I highly recommend.
 * Setting up a website and having your own domain name.
 * With no publisher backing you, you're only going to make money on what sells. So no one's paying you to write that next novel.
