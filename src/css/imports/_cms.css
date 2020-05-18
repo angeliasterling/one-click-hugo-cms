@@ -36,16 +36,6 @@
 		max-width: 100%;
 	}
 
-	/* Links */
-	& a {
-		color: var(--primary);
-		transition: var(--hover-transition);
-		&:hover {
-			background-color: var(--highlight);
-			color: var(--black);
-		}
-	}
-
 	/* Lists */
 	& ul, & ol, & li {
 		position: relative;
