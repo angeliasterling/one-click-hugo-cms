@@ -28,3 +28,5 @@ For me this was a "chicken before the egg" scenario. I couldn't list my book on 
 **Multiple Formats**
 
 If you are intending to immediately list your book in multiple formats (like eBook and paperback) Bowker does have a "Clone" feature to help you set up the title a little quicker. Unfortunately it doesn't copy over all of the information, so you'll still have to do some of it manually yourself.
+
+Congrats! You're one step closer to listing your book for sale.
