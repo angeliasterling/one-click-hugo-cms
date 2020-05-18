@@ -6,9 +6,9 @@ image: img/img_2031.jpg
 ---
 **First off, what are ISBNs?**
 
-ISBN stands for International Standard Book Number and is a 13 digit long number that identifies your book. Each format of your book (eBook, hardcover paperback) will have a unique ISBN as well as each language you have it translated to. 
+ISBN stands for International Standard Book Number and is a 13 digit long number that identifies your book. Each format of your book (eBook, hardcover, paperback) will have a unique ISBN as well as each language you have it translated to. 
 
-So if you intend to release multiple books in different formats you can see how the number of ISBNs needed will add up fast.
+If you intend to release multiple books in different formats you can see how the number of ISBNs needed will add up fast.
 
 **Should you buy your own?**
 
