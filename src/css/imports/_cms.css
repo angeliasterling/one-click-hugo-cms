@@ -36,6 +36,11 @@
 		max-width: 100%;
 	}
 
+	/* Links */
+	& a {
+		color: var(--primary);
+	}
+
 	/* Lists */
 	& ul, & ol, & li {
 		position: relative;
