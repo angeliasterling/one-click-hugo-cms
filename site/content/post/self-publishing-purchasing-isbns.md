@@ -2,7 +2,7 @@
 title: "Self-Publishing: Purchasing ISBNs"
 date: 2020-05-17T21:58:00.000Z
 description: Should you purchase your own ISBNs?
-image: ""
+image: img/img_2031.jpg
 ---
 **First off, what are ISBNs?**
 
