@@ -51,6 +51,7 @@
 
 	& ul {
 		margin-left: 1.33rem;
+		font-size: .9em;
 		& >li:before {
 			content: '✱';
 			left: -1.33rem;
