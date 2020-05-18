@@ -20,7 +20,7 @@ If you choose to use free ISBNs you don't own them, they are owned by the compan
 
 **Where do you buy them?**
 
-You should purchase ISBNs directly from Bowker, you can see more details [here](https://www.myidentifiers.com/identify-protect-your-book/isbn/buy-isbn). Be prepared, they aren't cheap. I opted to buy 100 ISBNs because it was more cost effective and I want to get my book out there in as many ways possible. With even one novel it's easy to see how you could quickly reach 10 different ISBNs.
+You should purchase ISBNs directly from Bowker, you can see more details [here](https://www.myidentifiers.com/identify-protect-your-book/isbn/buy-isbn). Be prepared, they aren't cheap. I opted to buy 100 ISBNs because it was more cost effective and I want to get my book out there in as many ways possible. With even one novel it's easy to see how you could quickly burn through 10 different ISBNs.
 
 **Barcodes**
 
