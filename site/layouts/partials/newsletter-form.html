@@ -1,7 +1,8 @@
-<form action="" class="flex-ns mb3">
+<form name="contact" method="POST" data-netlify="true" class="flex-ns mb3">
 
-  <fieldset class="flex-auto mb2 mb0-ns mr2-ns" name="newsletter" action="newsletter-subscribe">
-    <input type="text" id="email" placeholder="Your email" class="w-100">
+  <fieldset class="flex-auto mb2 mb0-ns mr2-ns" name="newsletter">
+  	<input type="hidden" name="site" value="adsterling">
+    <input type="text" id="email" placeholder="Your email" name="email" class="w-100">
   </fieldset>
 
   <button class="btn mb3 w-100 w-auto-ns mb0-ns raise" type="submit">Submit</button>
