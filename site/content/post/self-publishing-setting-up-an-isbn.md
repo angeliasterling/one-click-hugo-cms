@@ -8,7 +8,7 @@ If you haven't already [purchased your own ISBNs](/post/self-publishing-purchasi
 
 **Set up your ISBN first** 
 
-Consider setting up your ISBNs as **step 1** in self-publishing your book. Before you can submit your POD (print on demand) book you need your ISBN set up and accepted. Plan accordingly, once you submit your ISBN information it can take up to 48 hours to be accepted.
+Consider setting up your ISBNs as **step 1** in self-publishing your book. Before you can submit your [POD (print on demand)](/post/self-publishing-print-on-demand-pod) book you need your ISBN set up and accepted. Plan accordingly, once you submit your ISBN information it can take up to 48 hours to be accepted.
 
 The following information is required to set up your ISBN:
 
