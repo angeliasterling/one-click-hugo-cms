@@ -1,6 +1,6 @@
 ---
 title: "Self-Publishing: Print On Demand (POD)"
-date: 2020-05-18T20:37:57.621Z
+date: 2020-05-19T20:37:00.000Z
 description: What is Print On Demand anyway?
 image: ""
 ---
