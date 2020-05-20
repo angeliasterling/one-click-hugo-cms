@@ -8,7 +8,7 @@
 </div>
 <div class="mw7 center blog-tiles">
   <ul class="flex-ns flex-wrap mhn1-ns">
-      {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
+      {{ range (.Paginator 20).Pages.ByPublishDate.Reverse }}
           <div class="w-50-ns ph1-ns flex">
             {{ .Render "li"}}
           </div>
