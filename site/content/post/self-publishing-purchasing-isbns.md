@@ -26,4 +26,8 @@ You should purchase ISBNs directly from [Bowker](https://www.myidentifiers.com/i
 
 Your ISBN is used in the barcode that is printed on the back of your book. Bowker will try to up-sell you a barcode. **Don't** buy them unless you intend to print your book through a smaller printing service that doesn't provide a barcode for you. The big POD (print on demand) services like Amazon, IngramSpark and Barnes & Noble provide the barcode for you, so in those cases it's an unnecessary expense.
 
+**Changes to your Manuscript**
+
+As long as you aren't making significant changes to your manuscript you do not need to change your ISBN.
+
 Read Next: [Self-Publishing: Setting up an ISBN](/post/self-publishing-setting-up-an-isbn)
