@@ -11,7 +11,7 @@ Self-publishing has its own list of down sides as well that I think are importan
 **Time**
 
 * Researching what to do and how to do it.
-* If you're going to upload your book to various platforms for [Print on Demand](/post/self-publishing-print-on-demand-pod) (like Amazon and IngramSpark) expect to spend a fair amount of time formatting and reformatting your files based on their unique requirements.
+* If you're going to upload your book to various platforms as [eBooks](post/self-publishing-ebooks/) or for [Print on Demand](/post/self-publishing-print-on-demand-pod) (like Amazon and IngramSpark) expect to spend a fair amount of time formatting and reformatting your files based on their unique requirements.
 * Getting your book out there, whether through social media, contacting book stores directly or creating your own marketing materials.
 * Setting up a website, unless you opt to have someone else do it for you. In which case, more money.
 
