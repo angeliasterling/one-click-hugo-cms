@@ -28,6 +28,6 @@ Your ISBN is used in the barcode that is printed on the back of your book. Bowke
 
 **Changes to your Manuscript**
 
-As long as you aren't making significant changes to your manuscript you do not need to change your ISBN.
+As long as you aren't making significant changes to your manuscript you do not need to change your ISBN. If you add paragraphs or chapters, that's technically a new edition and would require a new ISBN.
 
 Read Next: [Self-Publishing: Setting up an ISBN](/post/self-publishing-setting-up-an-isbn)
