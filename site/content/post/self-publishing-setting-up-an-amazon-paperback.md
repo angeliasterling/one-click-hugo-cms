@@ -10,7 +10,7 @@ If you didn't do this to [set up an eBook](/post/self-publishing-setting-up-an-a
 
 **Paperback Document**
 
-Amazon offers [templates](https://kdp.amazon.com/en_US/help/topic/G201834230) for creating your document and these are a good place to start. *However*, if you intend to expand out further and publish on other platforms these documents don't meet the requirements of other printers like [IngramSpark](https://www.ingramspark.com/hubfs/downloads/file-creation-guide.pdf) and Barnes & Noble. For example the margins in the Amazon template file do not meet the minimum requirements.
+Amazon offers [templates](https://kdp.amazon.com/en_US/help/topic/G201834230) for creating your document and these are a good place to start. *However*, if you intend to expand out further and publish on other platforms these documents don't meet the [requirements of other printers like IngramSpark](https://www.ingramspark.com/hubfs/downloads/file-creation-guide.pdf) and Barnes & Noble. For example the margins in the Amazon template file do not meet the minimum requirements.
 
 Additionally, IngramSpark requires that your files be exported to a pdf **very** specifically to be considered "print ready". For this reason, and to make things easier down the road, I would recommend formatting your book per IngramSpark requirements and then use that file for Amazon and Barnes & Noble. This will save you time down the road and make uploading a breeze.
 
@@ -20,15 +20,15 @@ Using the same file was also important to me because I wanted the pages to match
 
 **Cover**
 
-To determine the correct format for your cover you need to know the size of your book, how many pages it will be (meaning you'll need to complete formatting your book first) and the paper type. These factors essentially determine how wide your spine will be.
+To determine the correct format for your cover you need to know the size of your book, how many pages it will be (meaning you'll need to complete formatting your book first) and the paper type. These factors essentially determine how wide your spine will be. Amazon will provide you with a [template to use](https://kdp.amazon.com/en_US/cover-templates?ref_=kdp_ts_pb_cov) so long as you have this information.
 
 **What you need**
 
-In order to complete setup for your eBook you'll need the following:
+In order to complete setup for your paperback you'll need the following:
 
 * Your paperback ISBN if you are using an [ISBN you've purchased](/post/self-publishing-purchasing-isbns/).
 * The imprint you used when setting up your ISBN account. You can find this in your Bowker account by going to My Account - My Profile Data - My Company. For me, this is my full name which is how I listed the "publisher".
-* Your cover [formatted properly](https://kdp.amazon.com/en_US/cover-templates?ref_=kdp_ts_pb_cov). KDP does have a tool to create your own cover called [Cover Creator](https://kdp.amazon.com/en_US/help/topic/G201113520), but I did not use it so I can't speak to how well it works.
+* Your cover formatted properly. KDP does have a tool to create your own cover called [Cover Creator](https://kdp.amazon.com/en_US/help/topic/G201113520), but I did not use it so I can't speak to how well it works.
 * Your .pdf file or other accepted format of your manuscript.
 * Your published date. I left this blank since it was the first place I published. As I noted in the [setting up your ISBN](/post/self-publishing-setting-up-an-isbn/) post, this led to a mismatch in Bowker and on Amazon due to not knowing exactly when my book would be live. Since I was ready to publish immediately I didn't future date everything, but that might have been the best way to get matching published dates.
 
