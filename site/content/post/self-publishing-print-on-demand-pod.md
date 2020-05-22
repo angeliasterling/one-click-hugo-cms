@@ -8,15 +8,17 @@ Print On Demand (POD) services allow you to list your book for sale and will onl
 
 The POD services I opted to use so far are:
 
-* Amazon KDP (Kindle Direct Publishing)
-* IngramSpark
-* Barnes & Noble Press
+* [Amazon KDP (Kindle Direct Publishing)](kdp.amazon.com)
+* [IngramSpark](https://www.ingramspark.com/)
+* [Barnes & Noble Press](https://press.barnesandnoble.com/)
 
 **Amazon KDP**
 
 Amazon KDP is possibly the easiest service for listing your book. The downside is that they only print paperback books, so if you're interested in having a hardcover version you'll have to have it printed elsewhere. When you list on Amazon your book is obviously only available for sale through Amazon's website. You can, however, purchase your own copies at the discounted author cost to distribute yourself.
 
 You can opt to have Amazon KDP distribute your book, but I wouldn't recommend this. 1) They use IngramSpark for distribution so you're paying both a portion of your sales and 2) In order to enable this feature I would have had to list my book at a higher price just to make a profit, which I didn't want to do.
+
+Read Next: [Self-Publishing: Setting up an Amazon Paperback](/post/self-publishing-setting-up-an-amazon-paperback)
 
 **IngramSpark**
 
