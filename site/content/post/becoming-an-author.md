@@ -8,7 +8,7 @@ I have always had book ideas running around in my head. Every once in a while I 
 
 Things changed for me a little over five years ago while doing the customary round-robin on New Year's Eve resolutions. I said I wanted to finish writing a book before my next birthday. I naively believed it would be easy for me and that I could knock out a book in about eight months. I really did try and to a certain extent succeeded, but by the time my birthday rolled around I hadn't finished the book.
 
-And then life got in the way again and my book got put on the shelf again. Since then I've continued to dust it off and rework different elements of the story. I've rewritten it no less than 6 times and each version has been significantly different. Not only did I take on writing a book, but I decided to create a world with its own rules and I quickly discovered how challenging that was creatively.
+And then life got in the way again. Since then I've continued to dust it off and rework different elements of the story. I've rewritten it no less than 6 times and each version has been significantly different. Not only did I take on writing a book, but I decided to create a world with its own rules and I quickly discovered how challenging that was creatively.
 
 I was honestly ready to give up on it multiple times, resolving that it was as good as it was going to get, but not good enough to attempt to publish. It was my children, repeatedly asking if I was going to finish the book, that pushed me to keep going. They have always been super encouraging and supportive of the fact that I was writing a book.
 
