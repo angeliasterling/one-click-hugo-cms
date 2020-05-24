@@ -1,15 +1,5 @@
 {{ define "main" }}
 
-{{ range .Params.linksection }}
-	
-	{{.title}}
-
-	<ul>
-		{{ range .links }}
-			<li><a href="{{.linkurl}}" class="pa3 no-underline db">{{.linktext}}</a></li>
-		{{ end }}
-	</ul>
-{{ end }}
-
+{{ partial "links" .Params.linksection }}
 
 {{ end }}
