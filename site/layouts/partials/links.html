@@ -1,10 +1,15 @@
-{{ range .section }}
-	
+<div class="sections">
 	{{ .title }}
+	{{ range .section }}
+		<div class="section">
+			
+			<div class="section-title">{{ .title }}</div>
 
-	<ul>
-		{{ range .links }}
-			<li><a href="{{.linkurl}}" class="pa3 no-underline db">{{.linktext}}</a></li>
-		{{ end }}
-	</ul>
-{{ end }}
+			<ul class="section-links">
+				{{ range .links }}
+					<li><a href="{{.linkurl}}" class="pa3 no-underline db">{{.linktext}}</a></li>
+				{{ end }}
+			</ul>
+		</div>
+	{{ end }}
+</div>
