@@ -1,7 +1,10 @@
-{{.title}}
+{{ range .linksection }}
+	
+	{{.title}}
 
-<ul>
-	{{ range .links }}
-		<li><a href="{{.linkurl}}" class="pa3 no-underline db">{{.linktext}}</a></li>
-	{{ end }}
-</ul>
+	<ul>
+		{{ range .links }}
+			<li><a href="{{.linkurl}}" class="pa3 no-underline db">{{.linktext}}</a></li>
+		{{ end }}
+	</ul>
+{{ end }}
