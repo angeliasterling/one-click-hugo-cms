@@ -27,7 +27,14 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: "?"
-linksection: []
+linksection:
+  - title: Getting Started
+    links:
+      links:
+        - linkurl: /post/self-publishing-traditional-vs-self-publishing/
+          linktext: "Self-Publishing: Traditional vs Self-Publishing"
+        - linktext: "Self-Publishing: Using an Editor"
+          linkurl: /post/self-publishing-using-an-editor/
 full_image: /img/products-full-width.jpg
 intro:
   blurbs:
