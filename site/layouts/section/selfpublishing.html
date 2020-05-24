@@ -1,11 +1,5 @@
 {{ define "main" }}
 
-	<div>
-	{{ range .section }}
-		<div>{{.title}}</div>
-
-		<div>{{ partial "links" .Params.linksection }}</div>
-	{{ end }}
-	</div>
+	{{ partial "links" .Params.linksection }}
 
 {{ end }}
