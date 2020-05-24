@@ -1,17 +1,21 @@
 
 <div class="sections">
-	<h1 class="f2 lh-title b mb3">{{ .title }}</h1>
-	<p class="section-description">{{ .description }}</p>
-	{{ range .section }}
-		<div class="section">
-			
-			<h3>{{ .title }}</h3>
-			
-			<ul class="section-links">
-				{{ range .links }}
-					<li><a href="{{.linkurl}}" class="pa3 no-underline db">{{.linktext}}</a></li>
-				{{ end }}
-			</ul>
-		</div>
-	{{ end }}
+	<div class="mw7 center">
+		<h1 class="f2 lh-title b mb3">{{ .title }}</h1>
+		<p class="section-description">{{ .description }}</p>
+	</div>
+	<div class="cms mw6 center pb3">
+		{{ range .section }}
+			<div class="section">
+				
+				<h3>{{ .title }}</h3>
+				
+				<ul class="section-links">
+					{{ range .links }}
+						<li><a href="{{.linkurl}}" class="pa3 no-underline db">{{.linktext}}</a></li>
+					{{ end }}
+				</ul>
+			</div>
+		{{ end }}
+	</div>
 </div>
