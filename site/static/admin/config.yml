@@ -49,4 +49,4 @@ collections: # A list of collections the CMS should be able to edit
         label: "Self Publishing"
         name: "selfpublishing"
         fields:
-          - {label: Link Section, name: linksection, widget: object, fields: {label: Section, name: section, widget: list, fields: [{label: Title, name: title, widget: string}, {label: Links, name: links, widget: list, fields: [{label: linkurl, name: linkurl, widget: string}, {label: linktext, name: linktext, widget: string}]}]}}
+          - {label: Link Section, name: linksection, widget: object, fields: [{label: Section, name: section, widget: list, fields: [{label: Title, name: title, widget: string}, {label: Links, name: links, widget: list, fields: [{label: linkurl, name: linkurl, widget: string}, {label: linktext, name: linktext, widget: string}]}]}]}
