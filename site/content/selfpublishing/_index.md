@@ -6,4 +6,5 @@ linksection:
         - linkurl: google.com
           linktext: test
   title: Self Publishing
+  description: Guide to self publishing
 ---
