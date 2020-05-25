@@ -12,7 +12,7 @@ If you didn't do this to [set up an eBook](/post/self-publishing-setting-up-an-a
 
 Amazon offers [templates](https://kdp.amazon.com/en_US/help/topic/G201834230) for creating your document and these are a good place to start. *However*, if you intend to expand out further and publish on other platforms these documents don't meet the [requirements of other printers like IngramSpark](https://www.ingramspark.com/hubfs/downloads/file-creation-guide.pdf) and Barnes & Noble. For example the margins in the Amazon template file do not meet the minimum requirements.
 
-Additionally, IngramSpark requires that your files be exported to a pdf **very** specifically to be considered "print ready". For this reason, and to make things easier down the road, I would recommend formatting your book per IngramSpark requirements and then use that file for Amazon and Barnes & Noble. This will save you time down the road and make uploading a breeze.
+Additionally, IngramSpark requires that your files be exported to a pdf **very** specifically to be considered "print ready". For this reason, and to make things easier down the road, I would recommend [formatting your book per IngramSpark requirements](/post/self-publishing-setting-up-an-ingramspark-paperback/) and then use that file for Amazon and Barnes & Noble. This will save you time down the road and make uploading a breeze.
 
 When deciding what size book you want to print it's useful to reference the [distribution information ](https://kdp.amazon.com/en_US/help/topic/GQTT4W3T5AYK7L45)for different book sizes and paper types if you intend to distribute your book elsewhere.
 
