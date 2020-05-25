@@ -1,6 +1,6 @@
 ---
 title: "Self-Publishing: Setting up an IngramSpark Paperback"
-date: 2020-05-23T20:37:00.000Z
+date: 2020-05-24T20:37:00.000Z
 description: Setting up a paperback book on IngramSpark
 image: ""
 ---
