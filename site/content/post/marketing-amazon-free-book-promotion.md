@@ -9,7 +9,7 @@ I opted to run one Free Book Promotion for 5 days, although you can split that 5
 
 The Free Book Promotion was the first time I put myself out there as an author. Up until then I hadn't really talked about my book much with anyone outside my immediate circle. I shared my book on Facebook with friends and family who were extremely supportive. 
 
-Although I had created an account on Twitter this was also the first time I really put myself out there on that platform as well. I do wonder if having a larger Twitter following would have increased how successful the promotion would have been, but in the end it did gain my Twitter followers, even if not a lot of downloads.
+Although I had created an account on Twitter this was also the first time I really put myself out there on that platform as well. I do wonder if having a larger Twitter following would have increased how successful the promotion would have been, but in the end it did gain me Twitter followers, even if not a lot of downloads.
 
 **Setting one up**
 
