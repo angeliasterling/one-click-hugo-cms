@@ -39,4 +39,8 @@ linksection:
           linktext: "Self-Publishing: Setting up an Amazon Paperback"
         - linkurl: /post/self-publishing-amazon-author-page/
           linktext: "Self-Publishing: Amazon Author Page"
+    - title: IngramSpark
+      links:
+        - linkurl: /post/self-publishing-setting-up-an-ingramspark-paperback/
+          linktext: "Self-Publishing: Setting up an IngramSpark Paperback"
 ---
