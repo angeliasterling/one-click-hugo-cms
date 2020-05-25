@@ -44,3 +44,5 @@ Amazon states that it can take up to 72 hours for a book to show up in the store
 You can still make changes after you've published your eBook and those changes will automatically get pushed to anyone who has downloaded your book. It requires the same "up to 72" hour change window but I have found changes publish much quicker (usually less than 24 hours). 
 
 What about your [ISBN if you purchased one](/post/self-publishing-purchasing-isbns/)? You can make minor copy changes to your eBook without requiring setting up a new eBook. I've found some glaring typos along the way and it was wonderful to be able to easily fix them, upload them, and know that my new readers won't see them. If you change anything more, like adding paragraphs or chapters, that's technically a new edition and would need a new ISBN.
+
+Read Next: [Marketing: Amazon Free Book Promotion](/post/marketing-amazon-free-book-promotion)
