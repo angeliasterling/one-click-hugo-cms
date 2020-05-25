@@ -24,6 +24,8 @@ Read Next: [Self-Publishing: Setting up an Amazon Paperback](/post/self-publishi
 
 IngramSpark offers POD for paperbacks as well as hardcover. The major advantage to IngramSpark is that they distribute through a bunch of other channels like to retailers, libraries, and schools. Formatting your files for IngramSpark is more challenging, so if you intend to list your book here I would recommend formatting your files to their specifications and using that file for Amazon KDP.
 
+Read Next: [Self-Publishing: Setting up an IngramSpark Paperback](/post/self-publishing-ingramspark)
+
 **Barnes & Noble Press**
 
 Barnes & Noble also offers paperbacks as well as hardcovers. The advantage I saw with listing with B&N is that my book will be listed on their site whether they purchase my book through IngramSpark or not. The downside is that they required a unique ISBN for the same title & format, which is frowned upon as it's confusing when it's the same book with a different ISBN. I'm not sure yet if it was worth listing here, but I decided to give it a go and see what happens.
