@@ -1,13 +1,15 @@
 ---
 linksection:
   title: Self-Publishing
-  description: I'm going to start this out by saying I'm still learning about the
+  description: >-
+    I'm going to start this out by saying I'm still learning about the
     publishing industry. I can't say if self-publishing is better or worse than
     traditional publishing, but it seems to really come down to personal
     preference. If you write a quality book there's a good chance readers will
-    find you either way.  I decided to document my journey for my own reference.
-    If you're planning to self-publish your book this information might be
-    useful for you too.
+    find you either way.  
+
+
+    I decided to document my journey for my own reference. If you're planning to self-publish your book this information might be useful for you too.
   section:
     - title: About Me
       links:
