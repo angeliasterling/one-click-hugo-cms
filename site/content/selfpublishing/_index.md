@@ -27,10 +27,10 @@ linksection:
           linktext: "Self-Publishing: eBooks"
     - title: ISBNs
       links:
-        - linkurl: /post/self-publishing-setting-up-an-isbn/
-          linktext: "Self-Publishing: Setting Up An ISBN"
         - linkurl: /post/self-publishing-purchasing-isbns/
           linktext: "Self-Publishing: Purchasing ISBNs"
+        - linkurl: /post/self-publishing-setting-up-an-isbn/
+          linktext: "Self-Publishing: Setting Up An ISBN"
     - title: Amazon
       links:
         - linkurl: /post/self-publishing-setting-up-an-amazon-ebook/
