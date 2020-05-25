@@ -11,6 +11,6 @@ Amazon KDP has the market share of eBook readers, so creating your book here is 
 * It was easy to set up, it's free, and you can make as many changes to your document as you want without incurring a charge.
 * If you sign up for KDP Select you will earn a larger royalty payment (70% vs 35%) on the sales of your eBook. Your eBook will also be free to Kindle Unlimited readers and you will get paid a portion of that money based on how many pages of your book are read.
 
-Being enrolled in KDP Select also gives you access to run promotions on your book (like listing it for free for 5 days) to help entice readers to download your book. Eventually I intend to expand further to other eBook platforms, but when you enroll in KDP Select you commit to only listing with Amazon for 3 months.
+Being enrolled in KDP Select also gives you access to run promotions on your book (like [listing it for free for 5 days](/post/marketing-amazon-free-book-promotion)) to help entice readers to download your book. Eventually I intend to expand further to other eBook platforms, but when you enroll in KDP Select you commit to only listing with Amazon for 3 months.
 
-Read Next: [Self-Publshing: Setting up an Amazon eBook](/post/self-publishing-setting-up-an-amazon-ebook)
+Read Next: [Self-Publishing: Setting up an Amazon eBook](/post/self-publishing-setting-up-an-amazon-ebook)
