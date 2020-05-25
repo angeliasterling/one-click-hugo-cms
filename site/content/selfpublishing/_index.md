@@ -1,6 +1,6 @@
 ---
 linksection:
-  title: Self-Publishing
+  title: Self-Publishing Guide
   description: >-
     I'm going to start this out by saying I'm still learning about the
     publishing industry. I can't say if self-publishing is better or worse than
