@@ -39,6 +39,10 @@ If you intend to enroll in KDP Select and also list a paperback you are required
 
 Amazon states that it can take up to 72 hours for a book to show up in the store. I found it took somewhere between 24-48 hours.
 
+**Linking**
+
+If you want to ensure your eBook and Paperback are linked together on the same product listing page you'll need to [set up an Amazon Author Page](/post/self-publishing-amazon-author-page/) first.
+
 **Making Changes**
 
 You can still make changes after you've published your eBook and those changes will automatically get pushed to anyone who has downloaded your book. It requires the same "up to 72" hour change window but I have found changes publish much quicker (usually less than 24 hours). 
