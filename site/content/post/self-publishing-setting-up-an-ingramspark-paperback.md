@@ -8,15 +8,15 @@ If you want to get your books into libraries, retailers and schools the best pla
 
 When you set up a new title with IngramSpark you can choose to list both a paperback and eBook for $49, or the paperback for $49 and an eBook separately for $25.
 
-I was enrolled with Amazon KDP Select when I set up my paperback with IngramSpark so I was unable to list my eBook. This is unfortunately going to cost me additional money down the road, but I felt it was useful for me to take advantage of Amazon KDP Select before expanding further.
+I was enrolled with Amazon KDP Select when I set up my paperback with IngramSpark so I was unable to list my eBook. While enrolled in KDP Select you are not allowed to distribute your eBook through anyone else. So, this is unfortunately going to cost me additional money down the road, but I felt it was useful for me to take advantage of [Amazon KDP Select's marketing](/post/marketing-amazon-free-book-promotion/) before expanding further.
 
 **Paperback Document**
 
-IngramSpark requires that your files be exported to a pdf **very** specifically to be considered ["print ready"](https://www.ingramspark.com/hubfs/downloads/file-creation-guide.pdf). For this reason, and to make things easier down the road, I would recommend formatting your book per IngramSpark requirements and then use that file for Amazon and Barnes & Noble. This will save you time down the road and make uploading a breeze.
+IngramSpark requires that your files be exported to a pdf **very** specifically to be considered ["print ready"](https://www.ingramspark.com/hubfs/downloads/file-creation-guide.pdf). For this reason, and to make things easier down the road, I would recommend formatting your book per IngramSpark's requirements and then use that file for Amazon and Barnes & Noble. This will save you time down the road and make uploading a breeze.
 
 Unlike Amazon, IngramSpark doesn't offer templates for your manuscript as far as I'm aware. I used the template I downloaded from Amazon and modified it to match the requirements for IngramSpark.
 
-The biggest challenge I had with creating a file for IngramSpark was getting the pdf to meet their requirements. Unfortunately Pages doesn't have the export capabilities to create the file the way that they need. Their documentation references using Adobe Acrobat to create the file properly, however I don't have that application and it's expensive. I found I was able to use Affinity Designer to create the pdf and it resolved the errors I was receiving when I uploaded my pdf originally.
+The biggest challenge I had with creating a file for IngramSpark was getting the pdf to meet their requirements. Unfortunately Mac's Pages application doesn't have the export capabilities to create the file the way that they need. Their documentation references using Adobe Acrobat to create the file properly, however I don't have that application and it's expensive. I found I was able to use the [Affinity Designer](https://affinity.serif.com/en-us/designer/) application to create the pdf and it resolved the errors I was receiving when I uploaded my pdf originally.
 
 **Cover**
 
