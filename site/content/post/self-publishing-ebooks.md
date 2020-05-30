@@ -4,7 +4,7 @@ date: 2020-05-20T20:37:00.000Z
 description: Publishing eBooks
 image: ""
 ---
-Publishing an eBook is the easiest way to get into the space without much investment. Your cover will be simpler to create and there are tools available to make it easier to create the eBook file. If you only intend to list with Amazon you are not required to publish [using an ISBN](/post/self-publishing-purchasing-isbns/), but if you intend to expand out further to other eBook providers you will probably want one anyway.
+Publishing an eBook is the easiest way to get into the space without much investment. Your cover will be simpler to create and there are tools available to make it easy to create the eBook file. If you only intend to list with Amazon you are not required to publish [using an ISBN](/post/self-publishing-purchasing-isbns/), but if you intend to expand out further to other eBook providers you will probably want one anyway.
 
 Amazon KDP has the market share of eBook readers, so creating your book here is going to make your book available to the most readers. There are definitely other platforms out there (like Nook and Apple Books), but for now I've only launched my eBook on Amazon KDP. I've done this for two reasons.
 
