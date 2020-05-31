@@ -38,10 +38,6 @@ I feel the description field in particular is worth noting because I had to futz
 
 `<h4><i>Maybe she hadn’t always done everything she could to help her brother in the past, but Isla wasn’t going to let that stop her now.</i></h4><br>Isla finds her younger brother Ethan frustrating, he finds her overbearing. When a traumatic event puts Ethan in a coma, Isla grapples with feelings of guilt. Isla soon becomes concerned that her brother might be in real danger.<br><br>Their lives turn upside down when Isla learns of a family secret that her father has worked hard to keep hidden. Why don’t they ever see their grandmother? And what happened to their mother on the day she died? What secrets did she know?<br><br>Ethan and Isla's destinies become entwined as they begin a journey neither could have imagined. The children will have to mend their broken relationship and work together as a team in order to escape the nightmarish grip holding them <strong><i>beyond the darkness.</i></strong>`
 
-**Pricing**
-
-You will need to convert the price of your book for each region you want Amazon to list your book in. A [conversion tool](https://www.xe.com/currencyconverter/) will help you figure out an appropriate price in each region based on your US price. I rounded the pricing so it had a nice ending number .49 or .99 (although I'm not sure if that's the standard in other countries).
-
 **Expanded Distribution**
 
 You *might* want to consider using Amazon for expanded distribution (to libraries, retailers, book stores, etc) if you don't want to proceed with listing your book in more places than on Amazon. That said, I wouldn't recommend signing up for Expanded Distribution unless you really don't think you can do it yourself. 
