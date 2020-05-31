@@ -33,6 +33,10 @@ In order to complete setup for your paperback you'll need the following:
 
 I can't stress enough how important it is to format your files properly prior to uploading them. IngramSpark won't help you if they are formatted incorrectly and there will likely be a fee to upload them again, although I have read that during setup you may be able to re-upload your files if they don't meet the proper requirements without being charged.
 
+**Pricing**
+
+You will need to convert the price of your book for each region you want IngramSpark to list your book in. A [conversion tool](https://www.xe.com/currencyconverter/) will help you figure out an appropriate price in each region based on your US price. I rounded the pricing so it had a nice ending number .49 or .99 (although I'm not sure if that's the standard in other countries).
+
 **Listing**
 
 It takes approximately 4-7 days for a book to be approved with IngramSpark. Once they approve your files they will request you do a final review of the files before you can enable them for distribution.
