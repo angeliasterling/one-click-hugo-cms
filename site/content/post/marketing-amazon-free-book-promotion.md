@@ -3,7 +3,9 @@ title: "Marketing: Amazon Free Book Promotion"
 date: 2020-05-25T20:00:14.613Z
 description: Running a free eBook promotion with Amazon.
 ---
-You can run a Free Book Promotion or Kindle Countdown Deal every 90 days for eBooks and only while you're enrolled with Amazon KDP Select. I waited until my eBook and paperback pages were linked prior to running the Free Book Promotion. I wanted to make sure that anyone who came to the page and didn't want or was unable to download the eBook would also be aware that the paperback was available for purchase.
+You can run either a Free Book Promotion or a Kindle Countdown Deal every 90 days for eBooks and only while you're enrolled with Amazon KDP Select. So you can't run a Free Book Promotion AND Countdown deal within the same 90 days (kind of a bummer).
+
+I waited until my eBook and paperback pages were linked prior to running the Free Book Promotion. I wanted to make sure that anyone who came to the page and didn't want or was unable to download the eBook would also be aware that the paperback was available for purchase.
 
 I opted to run one Free Book Promotion for 5 days, although you can split that 5 days among the 90 days however you choose. My thought was that anyone who shared the deal might do so a day or two later and I wanted to try and allow as many people to see the free promotion and take advantage of it as possible.
 
