@@ -32,6 +32,8 @@ image: ""
 
 **IngramSpark**
 
+[IngramSpark Login](https://www.ingramspark.com/)
+
 [File Creation Guide](https://www.ingramspark.com/hubfs/downloads/file-creation-guide.pdf)
 
 **Barnes & Noble**
