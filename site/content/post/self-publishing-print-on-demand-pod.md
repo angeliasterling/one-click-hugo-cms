@@ -8,7 +8,7 @@ Print On Demand (POD) services allow you to list your book for sale and will onl
 
 The POD services I opted to use so far are:
 
-* [Amazon KDP (Kindle Direct Publishing)](kdp.amazon.com)
+* [Amazon KDP (Kindle Direct Publishing)](https://kdp.amazon.com/)
 * [IngramSpark](https://www.ingramspark.com/)
 * [Barnes & Noble Press](https://press.barnesandnoble.com/)
 
