@@ -12,7 +12,7 @@ I was enrolled with Amazon KDP Select when I set up my paperback with IngramSpar
 
 **Paperback Document**
 
-IngramSpark requires that your files be exported to a pdf **very** specifically to be considered ["print ready"](https://www.ingramspark.com/hubfs/downloads/file-creation-guide.pdf). For this reason, and to make things easier down the road, I would recommend formatting your book per IngramSpark's requirements and then use that file for Amazon and Barnes & Noble. This will save you time down the road and make uploading a breeze.
+IngramSpark requires that your files be exported to a pdf **very** specifically to be considered ["print ready"](https://www.ingramspark.com/hubfs/downloads/file-creation-guide.pdf). For this reason, and to make things easier down the road, I would recommend formatting your book per IngramSpark's requirements and then use that file for [Amazon KDP](/post/self-publishing-setting-up-an-amazon-paperback/) and [Barnes & Noble](/post/self-publishing-setting-up-a-barnes-noble-paperback/). This will save you time down the road and make uploading a breeze.
 
 Unlike Amazon, IngramSpark doesn't offer templates for your manuscript as far as I'm aware. I used the template I downloaded from Amazon and modified it to match the requirements for IngramSpark.
 
