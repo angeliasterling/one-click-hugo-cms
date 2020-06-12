@@ -28,6 +28,8 @@ linksection:
           linktext: "Self-Publishing: Print On Demand (POD)"
         - linkurl: /post/self-publishing-ebooks/
           linktext: "Self-Publishing: eBooks"
+        - linkurl: /post/self-publishing-quick-links
+          linktext: Quick Links
     - title: ISBNs
       links:
         - linkurl: /post/self-publishing-purchasing-isbns/
