@@ -6,7 +6,7 @@ image: img/screen-shot-2020-06-11-at-8.30.37-pm.png
 ---
 **Set up an account**
 
-The first thing you'll need to do is create a new account at [press.barnesandnoble.com]([press.barnesandnoble.com](https://press.barnesandnoble.com/)). B&N has the nicest, most user-friendly UI out of Amazon KDP and IngramSpark. If you aren't super familiar with what you're doing or how to properly format files they do an excellent job of walking you through what's needed.
+The first thing you'll need to do is create a new account at [press.barnesandnoble.com](https://press.barnesandnoble.com/). B&N has the nicest, most user-friendly UI out of Amazon KDP and IngramSpark. If you aren't super familiar with what you're doing or how to properly format files they do an excellent job of walking you through what's needed.
 
 Formatting Guide
 
