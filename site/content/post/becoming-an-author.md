@@ -2,7 +2,7 @@
 title: Becoming an Author
 date: 2020-05-14T20:37:00.000Z
 description: How did I get here?
-image: ""
+image: img/dsc_0113.jpg
 ---
 I have always had book ideas running around in my head. Every once in a while I would begin writing a book and then life would get in the way and it would end up buried in a folder somewhere on my computer where it would be forgotten. Some day I hope to revisit those ideas and make something of them.
 
