@@ -16,7 +16,7 @@ Although I had created an account on Twitter this was also the first time I real
 
 **Setting one up**
 
-This promotion is available once you've [set up your eBook](/post/self-publishing-setting-up-an-amazon-ebook/) and it's live. On your Bookshelf in [kdp.amazon.com](kdp.amazon.com) there is an option to "Promote and Advertise" next to your eBook. From there select the "Free Book Promotion", enter the date range you want to run your promotion and let your friends, family and fans know about it!
+This promotion is available once you've [set up your eBook](/post/self-publishing-setting-up-an-amazon-ebook/) and it's live. On your Bookshelf in [kdp.amazon.com](https://kdp.amazon.com/) there is an option to "Promote and Advertise" next to your eBook. From there select the "Free Book Promotion", enter the date range you want to run your promotion and let your friends, family and fans know about it!
 
 **Was it successful?**
 
