@@ -6,7 +6,7 @@ image: ""
 ---
 **Set up an account**
 
-If you didn't do this to [set up an eBook](/post/self-publishing-setting-up-an-amazon-ebook/), the first thing you'll need to do is create a new account at [kdp.amazon.com](kdp.amazon.com). You could use your regular Amazon account, but I wanted an account that was strictly associated with me as an author. I also used that same email when [setting up my Amazon Author page](/post/self-publishing-amazon-author-page).
+If you didn't do this to [set up an eBook](/post/self-publishing-setting-up-an-amazon-ebook/), the first thing you'll need to do is create a new account at [kdp.amazon.com](https://kdp.amazon.com/). You could use your regular Amazon account, but I wanted an account that was strictly associated with me as an author. I also used that same email when [setting up my Amazon Author page](/post/self-publishing-amazon-author-page).
 
 **Paperback Document**
 
