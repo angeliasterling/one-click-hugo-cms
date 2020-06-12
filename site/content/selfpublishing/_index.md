@@ -48,4 +48,8 @@ linksection:
       links:
         - linkurl: /post/self-publishing-setting-up-an-ingramspark-paperback/
           linktext: "Self-Publishing: Setting up an IngramSpark Paperback"
+    - title: Barnes & Noble
+      links:
+        - linkurl: /post/self-publishing-setting-up-a-barnes-noble-paperback/
+          linktext: "Self-Publishing: Setting up a Barnes & Noble Paperback"
 ---
