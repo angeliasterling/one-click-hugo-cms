@@ -1,6 +1,6 @@
 ---
 title: "Self-Publishing: Quick Links"
-date: 2020-06-17T00:05:00.000Z
+date: 2020-06-07T00:05:00.000Z
 description: Self-Publishing Quick Links
 image: ""
 ---
