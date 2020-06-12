@@ -6,7 +6,7 @@ image: ""
 ---
 **Set up an account**
 
-The first thing you'll need to do is create a new account at [kdp.amazon.com](kdp.amazon.com). You could use your regular Amazon account, but I wanted an account that was strictly associated with me as an author. I also used that same email when [setting up my Amazon Author page](/post/self-publishing-amazon-author-page).
+The first thing you'll need to do is create a new account at [kdp.amazon.com](https://kdp.amazon.com/). You could use your regular Amazon account, but I wanted an account that was strictly associated with me as an author. I also used that same email when [setting up my Amazon Author page](/post/self-publishing-amazon-author-page).
 
 **Kindle Create**
 
