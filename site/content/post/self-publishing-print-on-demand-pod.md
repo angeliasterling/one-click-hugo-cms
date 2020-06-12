@@ -29,3 +29,5 @@ Read Next: [Self-Publishing: Setting up an IngramSpark Paperback](/post/self-pub
 **Barnes & Noble Press**
 
 Barnes & Noble also offers paperbacks as well as hardcovers. The advantage I saw with listing with B&N is that my book will be listed on their site whether they purchase my book through IngramSpark or not. The downside is that they required a unique ISBN for the same title & format, which is frowned upon as it's confusing when it's the same book with a different ISBN. I'm not sure yet if it was worth listing here, but I decided to give it a go and see what happens.
+
+Read Next: [Self-Publishing: Setting up a Barnes & Noble Paperback](/post/self-publishing-setting-up-a-barnes-noble-paperback/)
