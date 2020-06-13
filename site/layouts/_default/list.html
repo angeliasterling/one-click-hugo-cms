@@ -2,7 +2,7 @@
 
 <div class="mw8 center blog-tiles">
   <ul class="flex-ns flex-wrap mhn1-ns">
-      <div class="w-50-ns ph1-ns flex">
+      <div class="w-33-ns ph2-ns flex">
         <a href="/selfpublishing/" class="no-underline content-section br1 mt2 mb2 db raise w-100">
           <div class="pa4">
             <h2 class="f3 b lh-title mt0 primary center">Self-Publishing</h2>
@@ -11,8 +11,14 @@
         </a>
       </div>
 
-      {{ range (.Paginator 20).Pages.ByPublishDate.Reverse }}
-          <div class="w-33-ns ph1-ns flex">
+      {{ range first 1 .Pages.ByPublishDate.Reverse }}
+        <div class="w-50-ns ph2-ns flex">
+            {{ .Render "li"}}
+          </div>
+      {{ end }}
+
+      {{ range first 50 (after 1 .Pages.ByPublishDate.Reverse) }}
+          <div class="w-33-ns ph2-ns flex">
             {{ .Render "li"}}
           </div>
       {{ end }}
