@@ -1,13 +1,12 @@
 {{ define "main" }}
 
-<div class="mw6 center content-section pa3 mt3 mb3">
-    <div class="mw7 center">
-        <h1 class="f2 lh-title b mb3">Self-Publishing</h1>
-    	<p>These blog posts are mostly about my journey with self-publishing. I've organized them into a: <a class="primary" href="/selfpublishing/">Self-Publishing Guide</a>. This format might be more useful if you're just beginning your own journey into self-publishing and want some step-by-step help.</p>
-    </div>
-</div>
 <div class="mw7 center blog-tiles">
   <ul class="flex-ns flex-wrap mhn1-ns">
+      <a href="{{ .RelPermalink }}" class="no-underline pa4 content-section br1 mt2 mb2 db raise w-100">
+        <h2 class="f3 b lh-title mt0 primary center">Self-Publishing</h2>
+        <p class="mb0">I've organized these posts into a <a class="primary" href="/selfpublishing/">Self-Publishing Guide</a>. This format might be more useful if you're just beginning your own journey into self-publishing and want some step-by-step guidance.</p>
+      </a>
+
       {{ range (.Paginator 20).Pages.ByPublishDate.Reverse }}
           <div class="w-50-ns ph1-ns flex">
             {{ .Render "li"}}
