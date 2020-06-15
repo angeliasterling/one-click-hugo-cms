@@ -2,7 +2,7 @@
 title: "Self-Publishing: Setting up a Barnes & Noble Paperback"
 date: 2020-06-12T00:05:24.891Z
 description: Publishing your paperback on B&N
-image: img/screen-shot-2020-06-11-at-8.30.37-pm.png
+image: img/img_4604.jpg
 ---
 **Set up an account**
 
