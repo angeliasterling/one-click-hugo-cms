@@ -2,7 +2,7 @@
 title: "Self-Publishing: Amazon Author Page"
 date: 2020-05-23T20:37:00.000Z
 description: Setting up an Amazon Author Page.
-image: ""
+image: img/img_2493.jpg
 ---
 Setting up an Author Page on Amazon is quick and easy. I like that it adds content to your book page by adding a biography section and links together all of your books with you as the author. It also gives you access to some additional reporting where you can see some sales information and your book reviews can be found here as well.
 
