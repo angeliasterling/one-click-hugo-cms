@@ -2,7 +2,7 @@
 title: "Self-Publishing: Setting up an IngramSpark Paperback"
 date: 2020-05-24T20:37:00.000Z
 description: Setting up a paperback book on IngramSpark
-image: img/img_5140.jpg
+image: img/ingramspark_paperback.jpg
 ---
 If you want to get your books into libraries, retailers and schools the best place to list your book is with IngramSpark. They can publish hardcover and paperbacks via [print on demand (POD)](/post/self-publishing-print-on-demand-pod/) as well as eBooks. If you intend to distribute your book beyond Amazon, this is the best way to do so. If you choose to distribute through Amazon they are using IngramSpark anyway.
 
