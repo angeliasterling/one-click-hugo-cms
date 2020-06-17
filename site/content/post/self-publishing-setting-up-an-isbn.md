@@ -2,7 +2,7 @@
 title: "Self-Publishing: Setting Up An ISBN"
 date: 2020-05-18T20:37:57.621Z
 description: You've purchased your own ISBNs, now what?
-image: img/img_2032.jpg
+image: img/bowker.jpg
 ---
 If you haven't already [purchased your own ISBNs](/post/self-publishing-purchasing-isbns/) I highly suggest you do so. If you don't intend to purchase ISBNs then this information doesn't apply to you.
 
