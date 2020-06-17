@@ -1,7 +1,7 @@
 ---
 title: "Self-Publishing: Quick Links"
 date: 2020-06-07T00:05:00.000Z
-description: Self-Publishing Quick Links
+description: A complete list of all of the external sites referenced within these blog posts
 image: ""
 ---
 **Bowker (ISBN Agency)**
