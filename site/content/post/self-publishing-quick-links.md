@@ -6,7 +6,7 @@ image: ""
 ---
 **Bowker (ISBN Agency)**
 
-[Identifier Services Login](https://www.myidentifiers.com/myaccount_myprofile)
+[Identifier Services](https://www.myidentifiers.com/myaccount_myprofile)
 
 **Amazon**
 
@@ -32,7 +32,7 @@ image: ""
 
 **IngramSpark**
 
-[IngramSpark Login](https://www.ingramspark.com/)
+[IngramSpark](https://www.ingramspark.com/)
 
 [File Creation Guide](https://www.ingramspark.com/hubfs/downloads/file-creation-guide.pdf)
 
