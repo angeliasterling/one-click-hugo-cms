@@ -2,7 +2,7 @@
 title: "Self-Publishing: Setting up an Amazon Paperback"
 date: 2020-05-21T20:37:00.000Z
 description: Tips for setting up your Paperback
-image: img/img_1836.jpg
+image: img/amazon_paperback.jpg
 ---
 **Set up an account**
 
