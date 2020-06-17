@@ -12,16 +12,21 @@
         </a>
       </div>
 
-      {{ range first 1 .Pages.ByPublishDate.Reverse }}
-        <div class="w-50-ns ph2-ns flex">
+      {{ range .Pages.ByPublishDate.Reverse }}
+        {{ if in .Params.Title "Quick Links" }}
+          <div class="w-50-ns ph2-ns flex">
             {{ .Render "li"}}
           </div>
+        {{ end }}
       {{ end }}
 
-      {{ range first 50 (after 1 .Pages.ByPublishDate.Reverse) }}
-          <div class="w-33-ns ph2-ns flex">
+      {{ range .Pages.ByPublishDate.Reverse }}
+        {{ if in .Params.Title "Quick Links" }}
+        {{ else }}
+           <div class="w-33-ns ph2-ns flex">
             {{ .Render "li"}}
           </div>
+        {{ end }}
       {{ end }}
   </ul>
   {{ partial "pagination" . }}
