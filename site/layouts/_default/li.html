@@ -1,7 +1,7 @@
-<a href="{{ .RelPermalink }}" class="no-underline content-section br1 mt2 mb2 db raise w-100">
-	{{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
-	<div class="pa4">
-		<h2 class="f4 b lh-title mt0 primary center">{{ .Title }}</h2>
-		<p class="mb0">{{ .Description }}</p>
+<a href="{{ .RelPermalink }}" class="no-underline pa2 br1 mt2 mb2 db raise w-10 bg-white0">
+	{{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-100" />{{ end }}
+	<div class="pa3 mt2 bt-grey">
+		<h2 class="f5 b lh-title mt0 primary center">{{ .Title }}</h2>
+		<p class="mb0 f6">{{ .Description }}</p>
 	</div>
 </a>

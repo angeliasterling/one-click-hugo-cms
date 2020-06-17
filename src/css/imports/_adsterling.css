@@ -481,3 +481,7 @@ input {
 .blog-tiles {
     max-width: calc(100vw - 5rem);
 }
+
+.bt-grey {
+    border-top: solid 1px grey;
+}
