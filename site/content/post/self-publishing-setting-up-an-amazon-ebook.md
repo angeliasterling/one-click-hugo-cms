@@ -2,7 +2,7 @@
 title: "Self-Publishing: Setting up an Amazon eBook"
 date: 2020-05-20T20:37:00.000Z
 description: Tips for setting up your eBook
-image: img/img_9423.jpg
+image: img/amazon_ebook.jpg
 ---
 **Set up an account**
 
