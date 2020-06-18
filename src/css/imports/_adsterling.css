@@ -164,6 +164,10 @@ a:hover {
         padding: 0;
         background: none;
     }
+
+    .w-33-ns .content-section {
+      margin: 0;
+    }
 }
 
 .content-section#books {
