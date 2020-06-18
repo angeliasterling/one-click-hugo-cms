@@ -12,7 +12,7 @@
         </a>
       </div>
 
-      {{ range .Pages.ByPublishDate.Reverse }}
+      {{ range (.Paginator 24).Pages.ByPublishDate.Reverse }}
         {{ if in .Params.Title "Quick Links" }}
           <div class="w-50-ns ph2-ns flex">
             {{ .Render "li"}}
@@ -20,7 +20,7 @@
         {{ end }}
       {{ end }}
 
-      {{ range .Pages.ByPublishDate.Reverse }}
+      {{ range (.Paginator 24).Pages.ByPublishDate.Reverse }}
         {{ if in .Params.Title "Quick Links" }}
         {{ else }}
            <div class="w-33-ns ph2-ns flex">
