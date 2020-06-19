@@ -54,4 +54,8 @@ linksection:
       links:
         - linkurl: /post/self-publishing-setting-up-a-barnes-noble-paperback/
           linktext: "Self-Publishing: Setting up a Barnes & Noble Paperback"
+    - title: Promotion
+      links:
+        - linkurl: /post/self-promotion-screen-printing-t-shirts-using-a-cricut
+          linktext: "Self-Promotion: Screen Printing T-Shirts using a Cricut"
 ---
