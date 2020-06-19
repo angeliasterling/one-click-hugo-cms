@@ -10,13 +10,13 @@ I **highly** encourage you to shop local, but I've linked to all of the supplies
 
 *\* Please note if you use the links below I may earn a small commission from Amazon for my recommendations.*
 
-* [Cricut Maker](https://amzn.to/2YfHDfG) 
+* [Cricut Maker](https://amzn.to/2YfHDfG)
 * [Speedball 10 Monofilament Screen Printing Frame, 10-Inch-by-14-Inch](https://amzn.to/37HH0i9)
-* [Speedball Squeegee 9 in., Brown](https://amzn.to/2Bl0blQ)
-* [Speedball bl Acrylic Screen Printing Ink, 8 fl. oz](https://amzn.to/37JJmNq)
-* [Silhouette of America Silver Silhouette Permanent Reflective Vinyl 12" X4'](https://amzn.to/2UY5AWU)
-* [YRYM HT Clear Vinyl Transfer Paper Tape Roll-12 x 50 FT](https://amzn.to/3fJfNi9)
-* [STIKK Blue Painters Tape](https://amzn.to/2AOATg5)
+* [Speedball Squeegee 9 in.](https://amzn.to/2Bl0blQ)
+* [Speedball Acrylic Screen Printing Ink, 8 fl. oz](https://amzn.to/37JJmNq)
+* [Silhouette Permanent Reflective Vinyl 12" X4'](https://amzn.to/2UY5AWU)
+* [Clear Vinyl Transfer Paper Tape Roll-12 x 50 FT](https://amzn.to/3fJfNi9)
+* [Blue Painters Tape](https://amzn.to/2AOATg5)
 * [Gildan Mens Short Sleeve Soft-Style T-Shirt](https://amzn.to/2UZqZ21)
 * [Amazon Essentials Women's 2-Pack Classic-Fit Short-Sleeve V-Neck T-Shirt](https://amzn.to/3hIRYJ2)
 * [Speedball Speed Clean](https://amzn.to/2N7VKO5)
