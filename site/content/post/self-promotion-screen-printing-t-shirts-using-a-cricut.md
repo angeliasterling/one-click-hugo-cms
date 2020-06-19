@@ -10,7 +10,7 @@ I **highly** encourage you to shop local, but I've linked to all of the supplies
 
 *\* Please note if you use the links below I may earn a small commission from Amazon for my recommendations.*
 
-* [Cricut Maker](https://amzn.to/2YfHDfG){:target="_blank"}
+* [Cricut Maker](https://amzn.to/2YfHDfG) 
 * [Speedball 10 Monofilament Screen Printing Frame, 10-Inch-by-14-Inch](https://amzn.to/37HH0i9)
 * [Speedball Squeegee 9 in., Brown](https://amzn.to/2Bl0blQ)
 * [Speedball bl Acrylic Screen Printing Ink, 8 fl. oz](https://amzn.to/37JJmNq)
