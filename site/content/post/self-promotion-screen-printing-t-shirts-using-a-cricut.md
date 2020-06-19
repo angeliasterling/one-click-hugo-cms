@@ -111,7 +111,7 @@ Hang the shirt and let it dry before heat setting it - I let them sit for at lea
 
 Once you are done screen printing you will want to completely remove the vinyl and tape from the screen printing frame. Unfortunately you can't use this set up again because when you wash the screen the vinyl will start to come off. I used the hose in my kitchen sink and some dish soap and the ink came off fine, but you can also purchase special cleaner if your ink doesn't come off completely.
 
-**Update**: On my second round of making shirts it took me longer and the screen printing frame was left for longer periods of time in between printing shirts. This did lead to some dried in in the screen. To get this off I will need to try the screen printing cleaner.
+**Update**: On my second round of making shirts it took me longer and the screen printing frame was left for longer periods of time in between printing shirts. This did lead to some dried ink in the screen. To get this off I will need to try the screen printing cleaner.
 
 **Heat Setting the Ink**
 
