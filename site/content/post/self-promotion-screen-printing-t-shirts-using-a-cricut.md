@@ -105,15 +105,17 @@ Gently remove the screen printing frame from the shirt. I suggest holding the sh
 
 You can repeat this process with the same frame on more shirts. I made 10 shirts the first round and had no issues with degradation in the quality.
 
-Hang the shirt and let it dry before heat setting it - I let them sit for at least an hour before they were nearly dry to the touch.
+Hang the shirt and let it dry before heat setting it - I let them sit for at least an hour before they were nearly dry to the touch. Speedball says the ink is dry in 24-48 hours, which could also be why my ink didn't set properly using a heat gun (see **Heat Setting the Ink** below). It seems the longer you wait for your ink to dry the better.
 
 **Cleaning the Screen**
 
-Once you are done screen printing you will want to completely remove the vinyl and tape from the screen printing frame. Unfortunately you can't use this set up again because when you wash the screen the vinyl will start to come off. I used the hose in my sink and some dish soap and the ink came off fine, but you can also purchase special cleaner if your ink doesn't come off completely.
+Once you are done screen printing you will want to completely remove the vinyl and tape from the screen printing frame. Unfortunately you can't use this set up again because when you wash the screen the vinyl will start to come off. I used the hose in my kitchen sink and some dish soap and the ink came off fine, but you can also purchase special cleaner if your ink doesn't come off completely.
+
+**Update**: On my second round of making shirts it took me longer and the screen printing frame was left for longer periods of time in between printing shirts. This did lead to some dried in in the screen. To get this off I will need to try the screen printing cleaner.
 
 **Heat Setting the Ink**
 
-The first round of shirts I made I tried to set the ink using a heat gun and following directions I found on the internet. This did **not** work for me and sadly led to one of the first shirts I made getting extremely faded after the first wash. Once I discovered this issue I ironed the rest of the shirts using a standard iron on the cotton setting. I probably did this on each shirt for 5 minutes, which ended up taking a good amount of time. Thankfully none of the other shirts have faded on me.
+If you don't heat set the ink it will likely fade quickly. The first round of shirts I made I tried to set the ink using a heat gun and following directions I found on the internet. This did **not** work for me and sadly led to one of the first shirts I made getting extremely faded after the first wash. Once I discovered this issue I ironed the rest of the shirts using a standard iron on the cotton setting. I probably did this on each shirt for 5 minutes, which ended up taking a good amount of time. Thankfully none of the other shirts have faded on me.
 
 **Update**: I enjoyed making these shirts so much and intend to make more, so I decided it was worth getting the Cricut EasyPress 2. I set the temperature at 315 and ran it for 20 seconds on other screen printed shirts and haven't seen any issues with fading.
 
