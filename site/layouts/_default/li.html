@@ -2,9 +2,8 @@
 	{{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="ba-grey" />{{ end }}
 	<div class="pa1">
 		{{ $splittitle := split .Title ": " }}
-			<div class="f6 bg-grey-3 white dib pl2 pr2 br1 mb2">{{ index $splittitle 0 }</div>
-			<h2 class="pa1 f5 b lh-title mt0 primary center">{{ index $splittitle 1 }</h2>
-		{{ end }}
+		<div class="f6 bg-grey-3 white dib pl2 pr2 br1 mb2">{{ index $splittitle 0 }</div>
+		<h2 class="pa1 f5 b lh-title mt0 primary center">{{ index $splittitle 1 }</h2>
 		<p class="pa1 mb0 f6">{{ .Description }}</p>
 	</div>
 </a>
