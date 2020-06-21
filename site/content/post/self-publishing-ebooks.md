@@ -2,7 +2,7 @@
 title: "Self-Publishing: eBooks"
 date: 2020-05-20T20:37:00.000Z
 description: Publishing eBooks
-image: ""
+image: img/ebook.jpg
 ---
 Publishing an eBook is the easiest way to get into the space without much investment. Your cover will be simpler to create and there are tools available to make it easy to create the eBook file. If you only intend to list with Amazon you are not required to publish [using an ISBN](/post/self-publishing-purchasing-isbns/), but if you intend to expand out further to other eBook providers you will probably want one anyway.
 
