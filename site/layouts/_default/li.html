@@ -1,8 +1,8 @@
-<a href="{{ .RelPermalink }}" class="no-underline pa2 content-section br1 mt2 mb2 db raise w-100">
+<a href="{{ .RelPermalink }}" class="no-underline pa2 pt3 content-section br1 mt2 mb2 db raise w-100">
 	{{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="ba-grey" />{{ end }}
 	<div class="pa1">
 		{{ $splittitle := split .Title ": " }}
-		<div class="f6 bg-grey-3 white dib pl2 pr2 br1 mb2">{{ index $splittitle 0 }}</div>
+		<div class="white dib pl2 pr2 br1 tag-pill">{{ index $splittitle 0 }}</div>
 		<h2 class="pa1 f5 b lh-title ma0 primary center">{{ index $splittitle 1 }}</h2>
 	</div>
 </a>
