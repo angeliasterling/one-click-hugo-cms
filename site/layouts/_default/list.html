@@ -16,14 +16,14 @@
         {{ if in .Params.Title "Quick Links" }}
           <div class="w-50-ns ph2-ns flex">
             <a href="{{ .RelPermalink }}" class="no-underline pa2 content-section br1 mt2 mb2 db raise w-100">
-            {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="ba-grey" />{{ end }}
-            <div class="pa1">
-              {{ $splittitle := split .Title ": " }}
-              <div class="f6 bg-grey-3 white dib pl2 pr2 br1 mb2">{{ index $splittitle 0 }}</div>
-              <h2 class="pa1 f5 b lh-title ma0 primary center">{{ index $splittitle 1 }}</h2>
-              <p class="pa1 mb0 f6">{{ .Description }}</p>
-            </div>
-          </a>
+              {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="ba-grey" />{{ end }}
+              <div class="pa1">
+                {{ $splittitle := split .Title ": " }}
+                <h2 class="black pa1 f5 b lh-title ma0 mb3 primary center">{{ index $splittitle 1 }}</h2>
+                <p class="pa1 mb0 f6">{{ .Description }}</p>
+                <div class="black dib br1 pl1 tag-pill">{{ index $splittitle 0 }}</div>
+              </div>
+            </a>
           </div>
         {{ end }}
       {{ end }}
