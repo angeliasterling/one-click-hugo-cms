@@ -2,7 +2,7 @@
 title: "Self-Publishing: Print On Demand (POD)"
 date: 2020-05-19T20:37:00.000Z
 description: What is Print On Demand anyway?
-image: ""
+image: img/pod.jpg
 ---
 Print On Demand (POD) services allow you to list your book for sale and will only print a copy when someone orders one. This is a great solution for self-publishing, especially if you can't afford to do a big run of books.
 
