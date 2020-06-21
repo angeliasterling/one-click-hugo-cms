@@ -1,5 +1,5 @@
 ---
-title: Becoming an Author
+title: "Self-Publishing: Becoming an Author"
 date: 2020-05-14T20:37:00.000Z
 description: How did I get here?
 image: img/dsc_0113.jpg
