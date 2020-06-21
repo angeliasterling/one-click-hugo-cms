@@ -493,4 +493,6 @@ input {
 
 .tag-pill {
     font-size: 16px;
+    position: absolute;
+    bottom: 10px;
 }
