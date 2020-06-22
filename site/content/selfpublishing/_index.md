@@ -56,12 +56,8 @@ linksection:
           linktext: "Self-Publishing: Setting up a Barnes & Noble Paperback"
     - title: Promotion
       links:
+        - linkurl: /post/self-promotion-the-goodreads-author-program/
+          linktext: "Self-Promotion: The Goodreads Author Program"
         - linkurl: /post/self-promotion-screen-printing-t-shirts-using-a-cricut
           linktext: "Self-Promotion: Screen Printing T-Shirts using a Cricut"
-    - title: Goodreads
-      links:
-        - linkurl: https://www.goodreads.com/author/dashboard
-          linktext: Author Dashboard
-        - linkurl: https://www.goodreads.com/author/program
-          linktext: Author Program
 ---
