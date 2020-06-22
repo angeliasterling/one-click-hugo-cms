@@ -42,6 +42,12 @@ image: ""
 
 [Print Formatting Guide](http://www2.nookassets.com/npassets-spb/pod/resources/BN-Press-Formatting-Guide-v1.pdf)
 
+**Goodreads**
+
+[Author Dashboard](https://www.goodreads.com/author/dashboard)
+
+[Author Program](https://www.goodreads.com/author/program)
+
 **Tools**
 
 [Affinity Designer](https://affinity.serif.com/en-us/designer/) (used to properly format files for IngramSpark)
