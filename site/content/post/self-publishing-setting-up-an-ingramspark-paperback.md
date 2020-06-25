@@ -48,3 +48,5 @@ Before you enable your book to be available for distribution IngramSpark recomme
 **Making Changes**
 
 If you choose to make changes to your documents with IngramSpark it's going to cost you. Unlike Amazon, where you can make changes for free, there is a fee each time you want to make a change. For this reason it's best to wait until you are confident with your manuscript to upload your title.
+
+Read Next: [Self-Publishing: Exporting a Manuscript for IngramSpark](/post/self-publishing-exporting-a-manuscript-for-ingramspark/)
