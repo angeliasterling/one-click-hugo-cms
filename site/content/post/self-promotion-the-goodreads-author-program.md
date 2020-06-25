@@ -31,3 +31,7 @@ My book showed up quickly after submitting it, however I noticed that the cover 
 **Author Dashboard**
 
 Once everything is hooked up you'll have access to your [Author Dashboard](https://www.goodreads.com/author/dashboard) where you'll be able to see a holistic view of your books and the reviews that have been left.
+
+**Be Active**
+
+Be sure to be an active participant on GoodReads by adding books to your bookshelf, leaving reviews, and answering questions (among other options). If you don't look like you user the site people will be less interested in what you have to say.
