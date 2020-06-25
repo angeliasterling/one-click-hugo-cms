@@ -48,6 +48,12 @@ image: ""
 
 [Author Program](https://www.goodreads.com/author/program)
 
+**Written Word Media**
+
+[Bargain Booksy](https://www.writtenwordmedia.com/bargain-booksy/)
+
+[Free Booksy](https://www.writtenwordmedia.com/freebooksy/)
+
 **Tools**
 
 [Affinity Designer](https://affinity.serif.com/en-us/designer/) (used to properly format files for IngramSpark)
