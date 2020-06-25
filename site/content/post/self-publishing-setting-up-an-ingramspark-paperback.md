@@ -16,7 +16,7 @@ IngramSpark requires that your files be exported to a pdf **very** specifically 
 
 Unlike Amazon, IngramSpark doesn't offer templates for your manuscript as far as I'm aware. I used the template I downloaded from Amazon and modified it to match the requirements for IngramSpark.
 
-The biggest challenge I had with creating a file for IngramSpark was getting the pdf to meet their requirements. Unfortunately Mac's Pages application doesn't have the export capabilities to create the file the way that they need. Their documentation references using Adobe Acrobat to create the file properly, however I don't have that application and it's expensive. I found I was able to use the [Affinity Designer](https://affinity.serif.com/en-us/designer/) application to create the pdf and it resolved the errors I was receiving when I uploaded my pdf originally.
+The biggest challenge I had with creating a file for IngramSpark was getting the pdf to meet their requirements. Unfortunately Mac's Pages application doesn't have the export capabilities to create the file the way that they need. Their documentation references using Adobe Acrobat to create the file properly, however I don't have that application and it's expensive. I found I was able to use the [Affinity Designer](https://affinity.serif.com/en-us/designer/) application to [create the pdf](/post/self-publishing-exporting-a-manuscript-for-ingramspark/) and it resolved the errors I was receiving when I uploaded my pdf originally.
 
 **Cover**
 
