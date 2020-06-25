@@ -62,4 +62,6 @@ linksection:
           linktext: "Self-Promotion: The Goodreads Author Program"
         - linkurl: /post/self-promotion-screen-printing-t-shirts-using-a-cricut
           linktext: "Self-Promotion: Screen Printing T-Shirts using a Cricut"
+        - linkurl: /post/self-promotion-bargain-booksy-email-offer/
+          linktext: "Self-Promotion: Bargain Booksy Email Offer"
 ---
