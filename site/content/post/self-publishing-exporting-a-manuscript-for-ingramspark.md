@@ -1,6 +1,6 @@
 ---
 title: "Self-Publishing: Exporting a Manuscript for IngramSpark"
-date: 2020-06-21T19:52:30.072Z
+date: 2020-06-24T19:52:00.000Z
 description: How to properly export a pdf for IngramSpark using Affinity Designer
 image: img/affinitydesigner.jpg
 ---
