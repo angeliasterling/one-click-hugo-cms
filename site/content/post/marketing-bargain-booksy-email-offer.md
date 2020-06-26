@@ -1,5 +1,5 @@
 ---
-title: "Self-Promotion: Bargain Booksy Email Offer"
+title: "Marketing: Bargain Booksy Email Offer"
 date: 2020-06-23T19:52:00.000Z
 description: Promotion with Bargain Booksy
 image: img/bargainbooksy.jpg
