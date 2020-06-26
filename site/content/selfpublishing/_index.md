@@ -30,6 +30,10 @@ linksection:
           linktext: "Self-Publishing: eBooks"
         - linkurl: /post/self-publishing-quick-links
           linktext: Quick Links
+    - title: Resources
+      links:
+        - linkurl: /post/self-publishing-quick-links/
+          linktext: "Self-Publishing: Quick Links"
     - title: ISBNs
       links:
         - linkurl: /post/self-publishing-purchasing-isbns/
