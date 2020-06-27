@@ -11,3 +11,5 @@ When you sign up for the service they recommend you also sign up for the email l
 My campaign got me 0 new purchases, so for me this was a big fail (thankfully only a $20 fail). I attribute part of this to marketing to what appears to be the wrong age group. I intend to run another promotion marketing to their Young Adult list and will update how that goes.
 
 Would I do it again? Nope, at least not to the children's list.
+
+**Update**: The Young Adult list was only the tiniest bit more successful for me (i.e. I got 1 sale I'd attribute to it). I've heard other people talk about how successful these lists have been for them, but I really didn't see it. Perhaps for other genres it's better, but I can't say I'd recommend it for middle grade/children's novels. Free Booksy might be better in getting your book read, but given my experience with Bargain Booksy I don't have much interest in trying it.
