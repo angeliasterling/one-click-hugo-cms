@@ -58,12 +58,16 @@ linksection:
       links:
         - linkurl: /post/self-publishing-setting-up-a-barnes-noble-paperback/
           linktext: "Self-Publishing: Setting up a Barnes & Noble Paperback"
-    - title: Marketing & Promotion
+    - title: Promotion
       links:
+        - linktext: "Self-Promotion: Social Networking"
+          linkurl: /post/self-promotion-social-networking
         - linkurl: /post/self-promotion-the-goodreads-author-program/
           linktext: "Self-Promotion: The Goodreads Author Program"
         - linkurl: /post/self-promotion-screen-printing-t-shirts-using-a-cricut
           linktext: "Self-Promotion: Screen Printing T-Shirts using a Cricut"
+    - title: Marketing
+      links:
         - linkurl: /post/marketing-amazon-free-book-promotion
           linktext: "Marketing: Amazon Free Book Promotion"
         - linkurl: /post/marketing-bargain-booksy-email-offer/
