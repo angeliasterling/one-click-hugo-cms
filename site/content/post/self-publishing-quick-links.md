@@ -54,6 +54,20 @@ image: ""
 
 [Free Booksy](https://www.writtenwordmedia.com/freebooksy/)
 
+**Social**
+
+[Twitter](https://www.twitter.com/)
+
+[Instagram](https://www.instagram.com/)
+
+[Goodreads](https://www.goodreads.com/)
+
+[Pinterest](https://www.pinterest.com/)
+
+[Pinterest Business](https://business.pinterest.com/)
+
+[Facebook](https://www.facebook.com/)
+
 **Tools**
 
 [Affinity Designer](https://affinity.serif.com/en-us/designer/) (used to properly format files for IngramSpark)
