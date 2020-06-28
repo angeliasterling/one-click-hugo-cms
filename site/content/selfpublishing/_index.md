@@ -64,6 +64,8 @@ linksection:
           linkurl: /post/self-promotion-social-networking
         - linkurl: /post/self-promotion-the-goodreads-author-program/
           linktext: "Self-Promotion: The Goodreads Author Program"
+        - linkurl: /post/self-promotion-twitter-pinned-post
+          linktext: "Self Promotion: Twitter Pinned Post"
         - linkurl: /post/self-promotion-screen-printing-t-shirts-using-a-cricut
           linktext: "Self-Promotion: Screen Printing T-Shirts using a Cricut"
     - title: Marketing
