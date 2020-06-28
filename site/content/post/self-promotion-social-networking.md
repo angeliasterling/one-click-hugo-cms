@@ -2,7 +2,7 @@
 title: "Self-Promotion: Social Networking"
 date: 2020-06-27T19:52:00.000Z
 description: Social networking platforms
-image: ""
+image: img/social.jpg
 ---
 **Goodreads**
 
