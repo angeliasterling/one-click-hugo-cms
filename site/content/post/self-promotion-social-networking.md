@@ -14,6 +14,8 @@ Read next: [Self-Promotion: The Goodreads Author Program](/post/self-promotion-t
 
 Twitter has a large community of fellow authors who are great for providing inspiration, guidance and advice. I have also connected with an audience of people who read books in my genre.
 
+Read Next: [Self-Promotion: Twitter Pinned Post](/post/self-promotion-twitter-pinned-post)
+
 **Instagram**
 
 I created an instagram account dedicated to me as an "author" to share writing inspired images. I haven't gained any traction there, mostly because I'm not as active and haven't done much to actively engage with others. For now, it's just a fun place for me to post images when I can, which I use to add content for my website.
