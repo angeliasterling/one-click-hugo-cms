@@ -1,6 +1,6 @@
 ---
 title: "Self-Promotion: Twitter Pinned Post"
-date: 2020-06-29T19:52:00.000Z
+date: 2020-06-28T08:00:00.000Z
 description: Creating a pinned post on Twitter
 image: img/twitterad.jpg
 ---
