@@ -42,12 +42,6 @@ image: ""
 
 [Print Formatting Guide](http://www2.nookassets.com/npassets-spb/pod/resources/BN-Press-Formatting-Guide-v1.pdf)
 
-**Goodreads**
-
-[Author Dashboard](https://www.goodreads.com/author/dashboard)
-
-[Author Program](https://www.goodreads.com/author/program)
-
 **Written Word Media**
 
 [Bargain Booksy](https://www.writtenwordmedia.com/bargain-booksy/)
@@ -64,9 +58,17 @@ image: ""
 
 [Pinterest](https://www.pinterest.com/)
 
-[Pinterest Business](https://business.pinterest.com/)
-
 [Facebook](https://www.facebook.com/)
+
+**Goodreads**
+
+[Author Dashboard](https://www.goodreads.com/author/dashboard)
+
+[Author Program](https://www.goodreads.com/author/program)
+
+**Pinterest**
+
+[Pinterest Business](https://business.pinterest.com)
 
 **Tools**
 
