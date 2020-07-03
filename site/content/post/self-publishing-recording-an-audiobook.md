@@ -58,7 +58,7 @@ Each chapter should be recorded as its own file since this is how you'll be uplo
 
 **Recording**
 
-![Audacity](img/audacity.png "Audacity")
+![Audacity](img/aucacity_2.png "Audacity")
 
 Open Audacity and make sure that your microphone is selected versus the built-in microphone. I'd also recommend recording in Mono. I found that while recording in Stereo sometimes noises would be picked up on one channel that wasn't on the other and it was just distracting while listening. I had my Recording Volume set to about 80%, but you'll want to play around with this to make sure you aren't recording too loudly or quietly. For reference, my mouth was about 8" from the microphone and I wouldn't consider myself a quiet person.  If you get too close to a mic and too loud you'll find you're "overloading" the signal, which might work for rock but not storytelling.  Spend some time experimenting to find the right balance of distance to mic, speaking volume, and recording volume.
 
