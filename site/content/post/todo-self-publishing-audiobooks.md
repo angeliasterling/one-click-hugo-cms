@@ -1,5 +1,5 @@
 ---
-title: "TODO Self-Publishing: Audiobooks"
+title: "Self-Publishing: Audiobooks"
 date: 2021-07-02T18:53:00.000Z
 description: Releasing your book in audiobook format
 ---
