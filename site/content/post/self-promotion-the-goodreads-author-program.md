@@ -35,3 +35,7 @@ Once everything is hooked up you'll have access to your [Author Dashboard](https
 **Be Active**
 
 Be sure to be an active participant on GoodReads by adding books to your bookshelf, leaving reviews, and answering questions (among other things). If you don't look like you use the site people will be less interested in your profile. I didn't interact much for the first few months I was on the site and saw no benefit to being on it. Once I added friends (mostly from Twitter) and started adding books I'd read I saw more traction in people following me, leaving reviews, and interacting in general.
+
+**Advertising**
+
+Goodreads offers a couple of different ways to market and advertise your books on their platform. It's pricey and I have seen numerous reviews from other authors stating that it's a waste of money. At this time I'm going to follow their advice and not bother investing in this form of advertising.
