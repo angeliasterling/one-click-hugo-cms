@@ -78,11 +78,11 @@ This microphone is so sensitive that it sounded like I was inhaling deeply each 
 
 After running DeBreath listen to the chapter from the beginning. ACX requires a minimum of 30 seconds of "room noise" at the beginning and a minimum of 1 minute at the end. With that in mind, I cut any extraneous time from before I said "Chapter 1" by highlighting what I wanted to delete and clicking Edit > Delete.
 
-Remember those "clicks" I mentioned earlier? Those are easy to remove by highlighting the area that should be "silent" and clicking Generate > Silence. I also did this when I found any areas where I took a breath that the DeBreath plugin didn't capture or when I smacked my lips, swallowed or my belly gurgled (basically anything that shouldn't have been there).
+Remember those "clicks" I mentioned earlier? Those are easy to remove by highlighting the area that should be "silent" and clicking Generate > Silence. I also did this when I found any areas where I took a breath that the DeBreath plugin didn't capture or when I smacked my lips, swallowed or my belly grumbled (basically anything that shouldn't have been there).
 
 As you come across sections were you made a mistake simply select the problem area and Edit > Delete it.
 
-Try to make sure your pauses between sentences are consistent and not too close together. Specifically when I swallowed there would be a longer pause after removing all the noise, so I would delete out a little bit of the extra time left in there.
+Try to make sure your pauses between sentences are consistent and not too close together or too far apart. Specifically when I swallowed there would be a longer pause after removing all the noise, so I would delete out a little bit of the extra time left in there.
 
 **Reviewing**
 
@@ -92,7 +92,7 @@ As you find mistakes make a note of the chapter & time so that you can go back i
 
 **Re-Recording**
 
-When you are ready to re-record, the best way I found was to use Tracks > Add New > Mono Track. This will add a track below your original recording. Go to the timestamp you noted during the Reviewing phase. Click Mute on the original track, otherwise as you are recording your re-take your original track will play. Click Record and you'll see the re-take appear below the original. When you are done click stop. Then select your re-take from the new track and Edit > Copy it. Select your mistake in the original track and File > Paste. You can then delete your new track and unmute the original.
+When you are ready to re-record, the best way I found was to use Tracks > Add New > Mono Track. This will add a track below your original recording. Go to the timestamp you noted during the Reviewing phase. Click Mute on the original track, otherwise as you are recording your re-take your original track will play. Click Record and you'll see the re-take appear below the original. When you are done click stop. Then select your re-take from the new track and Edit > Copy it. Select your mistake in the original track and Edit > Paste. You can then delete your new track and unmute the original.
 
 **Post Processing**
 
