@@ -42,6 +42,12 @@ image: ""
 
 [Print Formatting Guide](http://www2.nookassets.com/npassets-spb/pod/resources/BN-Press-Formatting-Guide-v1.pdf)
 
+**ACX**
+
+[Dashboard](https://www.acx.com/dashboard)
+
+[Submission Requirements](https://www.acx.com/help/acx-audio-submission-requirements/201456300)
+
 **Written Word Media**
 
 [Bargain Booksy](https://www.writtenwordmedia.com/bargain-booksy/)
