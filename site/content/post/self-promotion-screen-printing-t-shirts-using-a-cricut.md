@@ -6,7 +6,7 @@ image: img/t-shirt.jpg
 ---
 **List of Supplies**
 
-I **highly** encourage you to shop local, but I've linked to all of the supplies I used through Amazon so you know exactly what I used. 
+I **highly** encourage you to shop local, but I've linked to all of the supplies through Amazon so you know exactly what I used. 
 
 *\* Please note this post was made possible by a partnership with Amazon. All opinions and reviews are my own.*
 
