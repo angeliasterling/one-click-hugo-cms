@@ -1,6 +1,6 @@
 ---
 title: "Self-Publishing: Delivery Timeframes"
-date: 2020-07-03T18:53:00.000Z
+date: 2020-07-01T18:53:00.000Z
 description: Below are some average delivery times I've seen for ordering from
   different sites.
 image: img/amazonorder.jpg
