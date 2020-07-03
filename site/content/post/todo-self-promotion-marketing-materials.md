@@ -1,6 +1,6 @@
 ---
-title: "TODO Marketing: DIY Temporary Tattoos"
+title: "TODO Marketing: BookBub Author Profile"
 date: 2020-07-03T18:53:07.788Z
-description: Print your own temporary tattoos
+description: Claiming your BookBub author profile so you can run marketing
 ---
-How to print your own temporary tattoos
+How to claim your BookBub author profile
