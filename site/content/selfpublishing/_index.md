@@ -74,4 +74,8 @@ linksection:
           linktext: "Marketing: Amazon Free Book Promotion"
         - linkurl: /post/marketing-bargain-booksy-email-offer/
           linktext: "Marketing: Bargain Booksy Email Offer"
+    - title: Audiobook
+      links:
+        - linkurl: /post/self-publishing-recording-an-audiobook/
+          linktext: "Self-Publishing: Recording an Audiobook"
 ---
