@@ -1,6 +1,6 @@
 ---
-title: "TODO Self-Promotion: Author Headshots"
+title: "TODO Marketing: DIY Temporary Tattoos"
 date: 2020-07-03T18:53:07.788Z
-description: Taking your own author headshots at home!
+description: Print your own temporary tattoos
 ---
-It's possible
+How to print your own temporary tattoos
