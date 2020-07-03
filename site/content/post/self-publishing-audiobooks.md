@@ -1,6 +1,6 @@
 ---
 title: "Self-Publishing: Audiobooks"
-date: 2021-07-02T18:53:00.000Z
+date: 2020-07-02T18:53:00.000Z
 description: Releasing your book in audiobook format
 ---
 Audiobooks are huge and I'm excited to see how well my book performs in this format. I had originally intended to work with a professional narrator, but when it fell through I decided to give recording the audiobook myself a try. It was time consuming, but overall it cost a significant amount less and I was able to tweak the files until I was satisfied vs having to pay for re-recordings.
