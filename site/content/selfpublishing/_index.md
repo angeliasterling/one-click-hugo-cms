@@ -28,6 +28,8 @@ linksection:
           linktext: "Self-Publishing: Print On Demand (POD)"
         - linkurl: /post/self-publishing-ebooks/
           linktext: "Self-Publishing: eBooks"
+        - linkurl: /post/self-publishing-audiobooks
+          linktext: "Self-Publishing: Audiobooks"
     - title: Resources
       links:
         - linkurl: /post/self-publishing-quick-links/
@@ -58,6 +60,10 @@ linksection:
       links:
         - linkurl: /post/self-publishing-setting-up-a-barnes-noble-paperback/
           linktext: "Self-Publishing: Setting up a Barnes & Noble Paperback"
+    - title: Audiobook
+      links:
+        - linkurl: /post/self-publishing-recording-an-audiobook/
+          linktext: "Self-Publishing: Recording an Audiobook"
     - title: Promotion
       links:
         - linktext: "Self-Promotion: Social Networking"
@@ -74,8 +80,4 @@ linksection:
           linktext: "Marketing: Amazon Free Book Promotion"
         - linkurl: /post/marketing-bargain-booksy-email-offer/
           linktext: "Marketing: Bargain Booksy Email Offer"
-    - title: Audiobook
-      links:
-        - linkurl: /post/self-publishing-recording-an-audiobook/
-          linktext: "Self-Publishing: Recording an Audiobook"
 ---
