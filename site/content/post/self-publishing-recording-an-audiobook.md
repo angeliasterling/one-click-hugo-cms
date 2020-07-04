@@ -64,7 +64,7 @@ Open Audacity and make sure that your microphone is selected versus the built-in
 
 Plug in your mic before you start Audacity, as sometimes it won't recognize it otherwise.  Restart Audacity if you find you only have the built-in microphone as an option available.
 
-Click record and don't worry about starting right away. For example, I chose to read and record from my laptop so I had to change between Audacity and Pages (Mac document app). Needless to say, the microphone captured the "click' noise when I switched over. These noises can easily be removed later by editing audio with Audacity.
+Click record and don't worry about starting right away. For example, I chose to read and record from my laptop so I had to change between Audacity and Pages (Mac document app). Needless to say, the microphone captured the "click" noise when I switched over. These noises can easily be removed later by editing audio with Audacity.
 
 As noted above, record one chapter at a time and save it as separate project files.
 
