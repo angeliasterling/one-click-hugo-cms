@@ -8,7 +8,7 @@ image: img/img_3836.jpg
 
 I **highly** encourage you to shop local whenever possible, but I’ve linked to all of the equipment through Amazon so you know exactly what products I used.
 
-*\* Please note this post was made possible by a partnership with Amazon. All opinions and reviews are my own.*
+*\* Please Note: as an Amazon Associate I earn from qualifying purchases (I'd be a fool not to). All opinions and reviews are my own.*
 
 [Sure-Max 4 Moving & Packing Blankets - Ultra Thick Pro](https://amzn.to/2C59Kpg)
 
