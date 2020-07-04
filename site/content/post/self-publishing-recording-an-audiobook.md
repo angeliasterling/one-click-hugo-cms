@@ -52,7 +52,7 @@ Read a page out loud before you start recording to get your vocal cords moving a
 
 Read from a device vs a hard copy of your book. This microphone picks up the tiniest of noises (trust me, it even picked up my belly grumbling one day), it will definitely capture your page turns.
 
-Turn off the air conditioning or heat if you have forced air, the microphone will pick up that up as a low hiss.
+Turn off the air conditioning or heat if you have forced air, the microphone will pick that up as a low hiss.
 
 Each chapter should be recorded as its own file since this is how you'll be uploading it later. I would suggest trying to record full chapters in each sitting. If you vary between recording sessions at least the chapter itself will sound consistent.
 
