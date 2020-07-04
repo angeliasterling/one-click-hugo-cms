@@ -8,7 +8,7 @@ image: img/t-shirt.jpg
 
 I **highly** encourage you to shop local whenever possible, but I’ve linked to all of the supplies through Amazon so you know exactly what products I used.
 
-*\* Please note this post was made possible by a partnership with Amazon. All opinions and reviews are my own.*
+*\* Please Note: as an Amazon Associate I earn from qualifying purchases (I'd be a fool not to). All opinions and reviews are my own.*
 
 * [Cricut Maker](https://amzn.to/2YfHDfG)
 * [Speedball 10 Monofilament Screen Printing Frame, 10-Inch-by-14-Inch](https://amzn.to/37HH0i9)
