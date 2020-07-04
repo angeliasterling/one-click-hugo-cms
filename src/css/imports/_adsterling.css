@@ -171,10 +171,6 @@ a:hover {
     }
 }
 
-.content-section#books {
-    padding: 20px 20px 60px;
-}
-
 @media (max-width: 768px) {
     .content-section#about {
         margin-top: 30px;
@@ -207,9 +203,9 @@ a:hover {
 .somnium {
     background-image: url("/img/somnium.png");
     background-size: cover;
-    height: 34px;
+    height: 33px;
     width: 156px;
-    margin-left: -6px;
+    margin-top: 3px;
 }
 
 .somnium-text {
