@@ -17,7 +17,7 @@
   	<base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
 
 	<link href="https://fonts.googleapis.com/css?family=Didact+Gothic|Cormorant+Garamond:wght@1,600" rel="stylesheet">
-	<link rel="stylesheet" href="./css/font-awesome.min.css" type="text/css">
+	<link rel="stylesheet" href="./css/brands.min.css" type="text/css">
 
   	{{ $stylesheet := .Site.Data.webpack.main }}
   	{{ with $stylesheet.css }}

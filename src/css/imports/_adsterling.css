@@ -210,6 +210,7 @@ a:hover {
 
 .somnium-text {
     font-family: 'Cormorant Garamond', serif;
+    clear: both;
 }
 
 /* btn */
@@ -299,8 +300,6 @@ a:hover {
 
 .buy-book {
   float: right;
-  margin-top: 2rem;
-  margin-right: 3rem;
 }
 
 @media (max-width: 768px) {
