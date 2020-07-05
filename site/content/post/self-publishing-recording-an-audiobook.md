@@ -76,13 +76,17 @@ I also kept recording when I needed to take a breath and collect myself or when 
 
 This microphone is so sensitive that it sounded like I was inhaling deeply each breath I took between sentences. It sounded like I was about to pass out, it was that bad. I purchased the DeBreath plugin from Waves which can be used with Audacity and the first thing I did was run my recordings through it. This plugin is pretty amazing. You can change the settings based on your own breathing in order to have them completely eliminated. It wasn't 100% foolproof, but it got rid of 90-95% of my breaths and was a huge time saver.
 
-After running DeBreath listen to the chapter from the beginning. ACX requires a minimum of 30 seconds of "room noise" at the beginning and a minimum of 1 minute at the end. With that in mind, I cut any extraneous time from before I said "Chapter 1" by highlighting what I wanted to delete and clicking Edit > Delete.
+After running DeBreath listen to the chapter from the beginning. ACX requires a minimum of 30 seconds of "room noise" (see below) at the beginning and a minimum of 1 minute at the end. With that in mind, I cut any extraneous time from before I said "Chapter 1" by highlighting what I wanted to delete and clicking Edit > Delete.
 
 Remember those "clicks" I mentioned earlier? Those are easy to remove by highlighting the area that should be "silent" and clicking Generate > Silence. I also did this when I found any areas where I took a breath that the DeBreath plugin didn't capture or when I smacked my lips, swallowed or my belly grumbled (basically anything that shouldn't have been there).
 
 As you come across sections were you made a mistake simply select the problem area and Edit > Delete it.
 
 Try to make sure your pauses between sentences are consistent and not too close together or too far apart. Specifically when I swallowed there would be a longer pause after removing all the noise, so I would delete out a little bit of the extra time left in there.
+
+**Room Noise**
+
+I recorded 3 min of silent "room noise" and used that as an additional track in each file. To do this I selected Tracks > Add New > Mono Track. I then copied my room noise track and repeatedly pasted it to match the length of the file. This ensures that after you've "silenced" your breaths or other noise there is still room noise audible. Unfortunately this doubles the room noise when you're speaking, but I didn't think it made an audible difference unless I had the volume turned way up. Next time I record an audio book I will likely try replacing my breaths or other extraneous noises with the "room noise" vs silencing it entirely.
 
 **Reviewing**
 
