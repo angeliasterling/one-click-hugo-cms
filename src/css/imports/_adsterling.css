@@ -491,3 +491,9 @@ input {
     position: absolute;
     bottom: 10px;
 }
+
+.social-icon {
+    height: 40px;
+    width: 40px;
+    text-align: center;
+}
