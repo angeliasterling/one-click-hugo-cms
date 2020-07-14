@@ -30,6 +30,8 @@ linksection:
           linktext: "Self-Publishing: eBooks"
         - linkurl: /post/self-publishing-audiobooks
           linktext: "Self-Publishing: Audiobooks"
+        - linkurl: /post/self-publishing-setting-up-a-business-entity
+          linktext: "Self-Publishing: Setting up a Business Entity"
     - title: Resources
       links:
         - linkurl: /post/self-publishing-quick-links/
