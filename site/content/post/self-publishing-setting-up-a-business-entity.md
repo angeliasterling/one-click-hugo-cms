@@ -1,7 +1,7 @@
 ---
 title: "Self-Publishing: Setting up a Business Entity"
 date: 2020-07-10T18:48:00.000Z
-description: Is it worth setting up a publishing company?
+description: Creating your own publishing company name
 image: img/businessentity.jpg
 ---
 I chose to set up a Business Entity for a few reasons
