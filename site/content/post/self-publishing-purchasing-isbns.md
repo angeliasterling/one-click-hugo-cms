@@ -18,6 +18,8 @@ It depends on where and how widely you want to distribute your book. For example
 
 If you choose to use free ISBNs you don't own them, they are owned by the company that set it up for you. So in this case, Amazon owns the ISBN and you can't use it yourself. Should you choose to publish or print your book through another company you'll need a different ISBN. Also, when you use a free ISBN you are not associated with the ISBN as the publisher even though you are self-publishing your title.
 
+If you want to associate your ISBNs with your own [Business Entity](/post/self-publishing-setting-up-a-business-entity) (for example if you want to set up your own publishing company), I'd suggest setting that up first.
+
 **Where do you buy them?**
 
 You should purchase ISBNs directly from [Bowker](https://www.myidentifiers.com/identify-protect-your-book/isbn/buy-isbn). Be prepared, they aren't cheap. I opted to buy 100 ISBNs because it was more cost effective and I want to get my book out there in as many ways possible. With even one novel it's easy to see how you could quickly burn through 10 different ISBNs.
