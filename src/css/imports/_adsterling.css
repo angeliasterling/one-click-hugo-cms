@@ -208,6 +208,12 @@ a:hover {
     margin-top: 3px;
 }
 
+@media (max-width: 768px) {
+  .somnium {
+      margin-top: 0px;
+  }
+}
+
 .somnium-text {
     font-family: 'Cormorant Garamond', serif;
     clear: both;
