@@ -66,6 +66,14 @@ linksection:
       links:
         - linkurl: /post/self-publishing-recording-an-audiobook/
           linktext: "Self-Publishing: Recording an Audiobook"
+    - title: ACX
+      links:
+        - linkurl: /post/self-publishing-uploading-an-audiobook-to-acx/
+          linktext: "Self-Publishing: Uploading an Audiobook to ACX"
+    - title: Author's Republic
+      links:
+        - linktext: "Self-Publishing: Uploading an Audiobook to Author's Republic"
+          linkurl: post/self-publishing-uploading-an-audiobook-to-authors-republic/
     - title: Promotion
       links:
         - linktext: "Self-Promotion: Social Networking"
