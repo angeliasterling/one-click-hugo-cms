@@ -46,7 +46,13 @@ image: ""
 
 [Dashboard](https://www.acx.com/dashboard)
 
-[Submission Requirements](https://www.acx.com/help/acx-audio-submission-requirements/201456300)
+[Audio Submission Requirements](https://www.acx.com/help/acx-audio-submission-requirements/201456300)
+
+[Cover Submission Requirements](https://audible-acx.custhelp.com/app/answers/detail/a_id/6654/kw/cover%20art)
+
+**Author's Republic**
+
+[Dashboard](https://authorsrepublic.com/the-republic/dashboard)
 
 **Written Word Media**
 
