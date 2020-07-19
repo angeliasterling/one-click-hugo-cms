@@ -15,8 +15,24 @@ Read Next:[](https://www.adsterling.com/post/self-publishing-setting-up-a-barnes
 
 These are the platforms I decided to release my audiobook through:
 
+* [Author's Republic](https://authorsrepublic.com/)
 * [ACX](https://www.acx.com/)
+
+**Author's Republic**
+
+I chose to list with Author's Republic because they distribute to all of the major distributers, including Audible & iTunes. When I reached out to Libro.fm (an up and coming audiobook distributer), they recommended listing via Author's Republic to get into their catalog as you can't do so directly. Presumably this is the case for other smaller audiobook distributors.
+
+It's important to note that Author's Republic pays you via PayPal unless you have 10 titles listed with them. That means that you'll unfortunately lose more of your payment because PayPal will charge a fee for the funds transfer from Author's Republic.
+
+Read Next: [](/post/self-publishing-uploading-an-audiobook-to-acx/)[Self-Publishing: Uploading an Audiobook to Author's Republic](/post/self-publishing-uploading-an-audiobook-to-authors-republic/)
 
 **ACX**
 
 ACX allows you to publish your audiobook directly to Audible & iTunes. ACX also offers other services that connect you with narrators who can audition to read your book at varying pricing. Read the fine print on these deals though, some of them sound pretty limiting. For example you could get yourself locked into a 7 year exclusive deal with ACX and be required to pay higher royalties if you don't pay for the audiobook upfront. Since I decided to record the book myself I didn't explore this avenue.
+
+I chose to list directly with ACX for the following reasons
+
+* Author's Republic is a little misleading in their verbiage about how much you get paid. They state you will make 70% even through Audible and iTunes. What this really means is that you'll make 70% of the 25% that ACX pays vs the full 25% if you go directly to ACX.
+* ACX direct deposits your payments so you won't lose a percentage to PayPal.
+
+Read Next: [Self-Publishing: Uploading an Audiobook to ACX](/post/self-publishing-uploading-an-audiobook-to-acx/)
