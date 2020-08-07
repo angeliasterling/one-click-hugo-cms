@@ -19,10 +19,23 @@ function _onHamburgerClick() {
 	}
 }
 
-document.querySelector('.mobile-nav a').addEventListener('click', _onNavLinkClick);
+var navLinks = document.querySelector('.mobile-nav').querySelectorAll('a');
+multiAddEventListener(navLinks, 'click', _onNavLinkClick);
 
 // listener methods
 function _onNavLinkClick() {
 	document.querySelector('.mobile-nav').classList.remove('mobile-active');;
 	document.querySelector('.mobile-nav').classList.add('mobile-inactive');
+}
+
+function multiAddEventListener(els, type, listener, limitOne = true) {
+    if (els) {
+        for (let i = 0; i < els.length; i++) {
+            const $target = els[i];
+            if (limitOne) {
+                $target.removeEventListener(type, listener);
+            }
+            $target.addEventListener(type, listener);
+        }
+    }
 }
