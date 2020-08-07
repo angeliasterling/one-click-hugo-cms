@@ -9,7 +9,7 @@ document.querySelector('.hamburger').addEventListener('click', _onHamburgerClick
 
 
 // listener methods
-_onHamburgerClick() {
+function _onHamburgerClick() {
 	var mobileNav = document.querySelector('.mobile-nav');
 	if (mobileNav.classList.contains('mobile-active')) {
 		mobileNav.classList.remove('mobile-active');
