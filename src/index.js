@@ -24,4 +24,5 @@ document.querySelector('.mobile-nav a').addEventListener('click', _onNavLinkClic
 // listener methods
 function _onNavLinkClick() {
 	document.querySelector('.mobile-nav').classList.remove('mobile-active');;
+	document.querySelector('.mobile-nav').classList.add('mobile-inactive');
 }
