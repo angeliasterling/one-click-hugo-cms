@@ -28,6 +28,8 @@ linksection:
           linktext: "Self-Publishing: Print On Demand (POD)"
         - linkurl: /post/self-publishing-ebooks/
           linktext: "Self-Publishing: eBooks"
+        - linkurl: /post/self-publishing-creating-an-epub-file
+          linktext: "Self-Publishing: Creating an EPUB File"
         - linkurl: /post/self-publishing-audiobooks
           linktext: "Self-Publishing: Audiobooks"
         - linkurl: /post/self-publishing-setting-up-a-business-entity
