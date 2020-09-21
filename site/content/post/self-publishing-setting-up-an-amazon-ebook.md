@@ -8,6 +8,10 @@ image: img/amazon_ebook.jpg
 
 The first thing you'll need to do is create a new account at [kdp.amazon.com](https://kdp.amazon.com/). You could use your regular Amazon account, but I wanted an account that was strictly associated with me as an author. I also used that same email when [setting up my Amazon Author page](/post/self-publishing-amazon-author-page).
 
+**EPUB File**
+
+I highly encourage [creating an EPUB file](/post/self-publishing-creating-an-epub-file/) if you have the ability to do so. It's accepted by Amazon KDP (as well as other distributers) and it's much easier to work with and make changes. If you only intend to distribute your book through Amazon KDP and you aren't able to create and EPUB file, then you might find that Kindle Create is the best solution for you.
+
 **Kindle Create**
 
 I used the [Kindle Create](https://www.amazon.com/Kindle-Create/b?ie=UTF8&node=18292298011) software to create my eBook. There might be better ways to create eBook files because I know I won't be able to use this file when I launch elsewhere, but it was relatively quick and easy and I had a better idea of what I was creating. Kindle Create accepts Word Document files and I found I had to do a few things to make importing easier.
@@ -23,7 +27,7 @@ In order to complete setup for your eBook you'll need the following:
 
 * Your eBook ISBN if you are using an [ISBN you've purchased](/post/self-publishing-purchasing-isbns/).
 * Your cover [formatted properly](https://kdp.amazon.com/en_US/help/topic/G200645690). Kindle does have a tool to create your own cover called [Cover Creator](https://kdp.amazon.com/en_US/help/topic/G201113520), but I did not use it so I can't speak to how well it works.
-* Your .kpf file created using Kindle Create or your eBook file.
+* Your .epub file or .kpf file created using Kindle Create.
 
 **Description**
 
