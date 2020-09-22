@@ -4,6 +4,10 @@ date: 2020-06-17T00:05:00.000Z
 description: How to DIY screen print t-shirts for promotional materials
 image: img/t-shirt.jpg
 ---
+**By Popular Demand**
+
+You can now [buy the shirt](https://shop.somniumseries.com/product/unisex-somnium-t-shirt)
+
 **List of Supplies**
 
 I **highly** encourage you to shop local whenever possible, but I’ve linked to all of the supplies through Amazon so you know exactly what products I used.
@@ -115,9 +119,9 @@ Once you are done screen printing you will want to completely remove the vinyl a
 
 **Heat Setting the Ink**
 
-If you don't heat set the ink it will likely fade quickly. The first round of shirts I made I tried to set the ink using a heat gun and following directions I found on the internet. This did **not** work for me and sadly led to one of the first shirts I made getting extremely faded after the first wash. Once I discovered this issue I ironed the rest of the shirts using a standard iron on the cotton setting. I probably did this on each shirt for 5 minutes, which ended up taking a good amount of time. Thankfully none of the other shirts have faded on me.
+If you don't heat set the ink it will likely fade quickly. The first round of shirts I made I tried to set the ink using a heat gun and following directions I found on the internet. This did **not** work for me and sadly led to one of the first shirts I made getting extremely faded after the first wash. Once I discovered this issue I ironed the rest of the shirts using a standard iron on the cotton setting and placing a piece of cotton over the ink. I probably did this on each shirt for 5 minutes, which ended up taking a good amount of time. Thankfully none of the other shirts have faded on me.
 
-**Update**: I enjoyed making these shirts so much and intend to make more, so I decided it was worth getting the Cricut EasyPress 2. I set the temperature at 315 and ran it for 30 seconds on other screen printed shirts and haven't seen any issues with fading. I would recommend testing this out as this temperature and time may vary depending on the specific fabric used.
+**Update**: I enjoyed making these shirts so much and intend to make more, so I decided it was worth getting the Cricut EasyPress 2. I set the temperature at 350 and placed a piece of cotton over the ink, then ran it for 30 seconds on other screen printed shirts and haven't seen any issues with fading. I would recommend testing this out as this temperature and time may vary depending on the specific fabric used.
 
 ![Completed shirt](img/print10.jpg "Completed shirt")
 
