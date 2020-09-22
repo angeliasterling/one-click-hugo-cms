@@ -8,7 +8,7 @@ If you want to get your books into libraries, retailers and schools the best pla
 
 When you set up a new title with IngramSpark you can choose to list both a paperback and eBook for $49, or the paperback for $49 and an eBook separately for $25.
 
-I was enrolled with Amazon KDP Select when I set up my paperback with IngramSpark so I was unable to list my eBook. While enrolled in KDP Select you are not allowed to distribute your eBook through anyone else. So, this is unfortunately going to cost me additional money down the road, but I felt it was useful for me to take advantage of [Amazon KDP Select's marketing](/post/marketing-amazon-free-book-promotion/) before expanding further.
+I chose not to list my eBook with IngramSpark because at the time I was enrolled in Amazon KDP, but once I discontinued enrollment in KDP I chose to list directly with the major eBook distributers (Amazon, Barnes & Noble, Kobo, Google and Apple). If you choose to list with IngramSpark it does distribute out through these channels as well as others, but I wanted to make sure I kept as much of my royalty payment as possible.
 
 **Paperback Document**
 
