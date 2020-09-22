@@ -64,6 +64,8 @@ linksection:
       links:
         - linkurl: /post/self-publishing-setting-up-a-barnes-noble-paperback/
           linktext: "Self-Publishing: Setting up a Barnes & Noble Paperback"
+        - linkurl: /post/self-publishing-setting-up-a-barnes-noble-ebook
+          linktext: "Self-Publishing: Setting up a Barnes & Noble eBook"
     - title: Audiobook
       links:
         - linkurl: /post/self-publishing-recording-an-audiobook/
