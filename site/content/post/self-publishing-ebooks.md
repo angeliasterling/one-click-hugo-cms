@@ -14,3 +14,9 @@ Amazon KDP has the market share of eBook readers, so creating your book here is 
 Being enrolled in KDP Select also gives you access to run promotions on your book (like [listing it for free for 5 days](/post/marketing-amazon-free-book-promotion)) to help entice readers to download your book. Eventually I intend to expand further to other eBook platforms, but when you enroll in KDP Select you commit to only listing with Amazon for 3 months.
 
 Read Next: [Self-Publishing: Setting up an Amazon eBook](/post/self-publishing-setting-up-an-amazon-ebook)
+
+**UPDATE**
+
+At the the end of my 3 month period with Amazon I chose to discontinue my KDP enrollment in order to see if expanding to other distributers would have any impact on my readership. I now also have my book listed directly on Barnes & Noble, Kobo, Google Play and Apple Books.
+
+Read Next: [Self-Publishing: Setting up a Barnes & Noble eBook](/post/self-publishing-setting-up-a-barnes-noble-ebook/)
