@@ -4,9 +4,9 @@ date: 2020-06-17T00:05:00.000Z
 description: How to DIY screen print t-shirts for promotional materials
 image: img/t-shirt.jpg
 ---
-**By Popular Demand**
+***By Popular Demand***
 
-You can now [buy the shirt](https://shop.somniumseries.com/product/unisex-somnium-t-shirt)
+*You can now [buy the shirt](https://shop.somniumseries.com/product/unisex-somnium-t-shirt)!*
 
 **List of Supplies**
 
