@@ -66,6 +66,10 @@ linksection:
           linktext: "Self-Publishing: Setting up a Barnes & Noble Paperback"
         - linkurl: /post/self-publishing-setting-up-a-barnes-noble-ebook
           linktext: "Self-Publishing: Setting up a Barnes & Noble eBook"
+    - title: Google Play
+      links:
+        - linkurl: /post/self-publishing-setting-up-a-google-play-ebook/
+          linktext: "Self-Publishing: Setting up a Google Play eBook"
     - title: Audiobook
       links:
         - linkurl: /post/self-publishing-recording-an-audiobook/
