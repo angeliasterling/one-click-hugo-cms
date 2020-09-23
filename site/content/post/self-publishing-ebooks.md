@@ -19,6 +19,8 @@ Read Next: [Self-Publishing: Setting up an Amazon eBook](/post/self-publishing-s
 
 At the the end of my 3 month period with Amazon I chose to discontinue my KDP enrollment in order to see if expanding to other distributers would have any impact on my readership. 
 
-I could have listed my eBook with IngramSpark but instead I chose to list directly with the major eBook distributers ([Amazon](/post/self-publishing-setting-up-an-amazon-ebook/), [Barnes & Noble](/post/self-publishing-setting-up-a-barnes-noble-ebook/), Kobo, Google and Apple). If you choose to list with IngramSpark it does distribute out through these channels as well as others, but I wanted to make sure I kept as much of my royalty payment as possible.
+I could have listed my eBook with IngramSpark but instead I chose to list directly with the major eBook distributers ([Amazon](/post/self-publishing-setting-up-an-amazon-ebook/), [Barnes & Noble](/post/self-publishing-setting-up-a-barnes-noble-ebook/), Kobo, [Google](/post/self-publishing-setting-up-a-google-play-ebook/) and Apple). If you choose to list with IngramSpark it does distribute out through these channels as well as others, but I wanted to make sure I kept as much of my royalty payment as possible.
 
 Read Next: [Self-Publishing: Setting up a Barnes & Noble eBook](/post/self-publishing-setting-up-a-barnes-noble-ebook/)
+
+Read Next: [Self-Publishing: SEtting up a Google Play eBook](/post/self-publishing-setting-up-a-google-play-ebook/)
