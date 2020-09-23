@@ -42,6 +42,10 @@ image: ""
 
 [Print Formatting Guide](http://www2.nookassets.com/npassets-spb/pod/resources/BN-Press-Formatting-Guide-v1.pdf)
 
+**Google Play**
+
+[Google Play Partner Center](https://play.google.com/books/publish)
+
 **ACX**
 
 [Dashboard](https://www.acx.com/dashboard)
