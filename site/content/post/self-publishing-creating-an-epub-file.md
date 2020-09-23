@@ -11,11 +11,11 @@ EPUB files are accepted by the major eBook distributers, including:
 
 \* [Amazon](/post/self-publishing-setting-up-an-amazon-ebook/)
 
-\* Barnes & Noble
+\* [Barnes & Noble](/post/self-publishing-setting-up-a-barnes-noble-ebook/)
 
 \* Kobo
 
-\* Google Play
+\* [Google Play](/post/self-publishing-setting-up-a-google-play-ebook/)
 
 This means you can use the same EPUB file for each listing if you want to distribute through more than just Amazon KDP.
 
