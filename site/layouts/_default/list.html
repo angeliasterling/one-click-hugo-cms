@@ -22,7 +22,15 @@
         </a>
       </div>
 
-      {{ range (.Paginator 25).Pages.ByPublishDate.Reverse }}
+      {{ if .Paginator.HasPrev }}
+        <div class="w-33-ns ph2-ns flex pagination">
+            <a class="no-underline pt5 tc content-section br1 mt2 mb2 db raise w-100 primary" title="Previous Page" href="{{ .Paginator.Prev.URL }}">
+                Next &rarr;
+            </a>
+        </div>
+      {{ end }}
+
+      {{ range (.Paginator 24).Pages.ByPublishDate.Reverse }}
         {{ if in .Params.Title "Quick Links" }}
         {{ else }}
            <div class="w-33-ns ph2-ns flex">
@@ -30,8 +38,15 @@
           </div>
         {{ end }}
       {{ end }}
+
+      {{ if .Paginator.HasNext }}
+        <div class="w-33-ns ph2-ns flex pagination">
+            <a class="no-underline pt5 tc content-section br1 mt2 mb2 db raise w-100 primary" title="Next Page" href="{{ .Paginator.Next.URL }}">
+                &larr; Previous
+            </a>
+        </div>
+      {{ end }}
   </ul>
-  {{ partial "pagination" . }}
 </div>
 
 {{end}}
