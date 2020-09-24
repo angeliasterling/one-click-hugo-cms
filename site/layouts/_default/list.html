@@ -24,8 +24,8 @@
 
       {{ if .Paginator.HasPrev }}
         <div class="w-33-ns ph2-ns flex pagination">
-            <a class="no-underline pt5 tc content-section br1 mt2 mb2 db raise w-100 primary" title="Previous Page" href="{{ .Paginator.Prev.URL }}">
-                Next &rarr;
+            <a class="no-underline pt5 tc content-section br1 mt2 mb2 db raise w-100 primary" title="Newer Posts" href="{{ .Paginator.Prev.URL }}">
+                &larr; Newer Posts
             </a>
         </div>
       {{ end }}
@@ -41,8 +41,8 @@
 
       {{ if .Paginator.HasNext }}
         <div class="w-33-ns ph2-ns flex pagination">
-            <a class="no-underline pt5 tc content-section br1 mt2 mb2 db raise w-100 primary" title="Next Page" href="{{ .Paginator.Next.URL }}">
-                &larr; Previous
+            <a class="no-underline pt5 tc content-section br1 mt2 mb2 db raise w-100 primary" title="Older Posts" href="{{ .Paginator.Next.URL }}">
+                Older Posts &rarr;
             </a>
         </div>
       {{ end }}
