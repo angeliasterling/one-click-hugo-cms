@@ -12,23 +12,17 @@
         </a>
       </div>
 
-      {{ range (.Paginator 24).Pages.ByPublishDate.Reverse }}
-        {{ if in .Params.Title "Quick Links" }}
-          <div class="w-50-ns ph2-ns flex">
-            <a href="{{ .RelPermalink }}" class="no-underline pa2 content-section br1 mt2 mb2 db raise w-100">
-              {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="ba-grey" />{{ end }}
-              <div class="pa1">
-                {{ $splittitle := split .Title ": " }}
-                <h2 class="black pa1 f5 b lh-title ma0 mb3 primary center">{{ index $splittitle 1 }}</h2>
-                <p class="pa1 mb0 f6">{{ .Description }}</p>
-                <div class="black dib br1 pl1 tag-pill">{{ index $splittitle 0 }}</div>
-              </div>
-            </a>
+      <div class="w-50-ns ph2-ns flex">
+        <a href="/post/self-publishing-quick-links/" class="no-underline pa2 content-section br1 mt2 mb2 db raise w-100">
+          <div class="pa1">
+            <h2 class="black pa1 f5 b lh-title ma0 mb3 primary center">Quick Links</h2>
+            <p class="pa1 mb0 f6">A complete list of all of the external sites referenced within these blog posts</p>
+            <div class="black dib br1 pl1 tag-pill">Self-Publishing</div>
           </div>
-        {{ end }}
-      {{ end }}
+        </a>
+      </div>
 
-      {{ range (.Paginator 24).Pages.ByPublishDate.Reverse }}
+      {{ range (.Paginator 25).Pages.ByPublishDate.Reverse }}
         {{ if in .Params.Title "Quick Links" }}
         {{ else }}
            <div class="w-33-ns ph2-ns flex">
