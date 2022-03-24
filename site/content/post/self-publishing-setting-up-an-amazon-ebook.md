@@ -37,7 +37,9 @@ I feel the description field in particular is worth noting because I had to futz
 
 **Pricing**
 
-If you intend to enroll in KDP Select and also list a paperback you are required to list your eBook price at least 25% lower than the paperback price.
+If you intend to enroll in KDP Select and also list a paperback you are required to list your eBook price at least 20% lower than the paperback price.
+
+You will also select your royalty option when setting your price, which can be 70% or 35%. You can find more details about these options [here](https://kdp.amazon.com/en_US/help/topic/G200644210), but essentially you can select 70% if you are enrolled in KDP as well as meeting a few other requirements noted in the link provided. Otherwise, you must select 35%.
 
 **Listing**
 
