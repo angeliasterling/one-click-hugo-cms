@@ -24,10 +24,10 @@ With these 2 changes I ended up with a few less pages, which allowed me to add s
 
 A few things to watch out for:
 
-1. For some reason IngramSpark rendered the font slightly differently, particularly as it pertains to an italic "e" at the end of a word. I didn't investigate why this happened as it doesn't bother me all that much, but it is odd.
+* For some reason IngramSpark rendered the font slightly differently, particularly as it pertains to an italic "e" at the end of a word. I didn't investigate why this happened as it doesn't bother me all that much, but it is odd.
 
-   ![EB Garamond italic e](img/garamond_e.png)
+  ![EB Garamond italic e](img/garamond_e.png)
 
-   ![EB Garamond italic e in IngramSpark](img/garamond_ise.png)
-2. Remember if you've used other fonts in your text. I had also used a handwriting font within my text and completely overlooked it when I selected all of my text and replaced it with EB Garamond. It's something I'll have to go back and fix.
-3. This won't layout exactly the same as Garamond, so be sure to look through all of your text to make sure you are satisfied. For example, I found that the updated font caused some unexpected wrapping that will need to be addressed since I don't like how it looks.
+  ![EB Garamond italic e in IngramSpark](img/garamond_ise.png)
+* Remember if you've used other fonts in your text. I had also used a handwriting font within my text and completely overlooked it when I selected all of my text and replaced it with EB Garamond. It's something I'll have to go back and fix.
+* This won't layout exactly the same as Garamond, so be sure to look through all of your text to make sure you are satisfied. For example, I found that the updated font caused some unexpected wrapping that will need to be addressed since I don't like how it looks.
