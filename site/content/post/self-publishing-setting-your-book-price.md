@@ -1,5 +1,5 @@
 ---
-title: "Self Publishing: Setting Your Book Price"
+title: "Self Publishing: Setting Your Paperback Book Price"
 date: 2022-03-23T01:20:00.000Z
 description: Use the following tools to determine how much it's going to cost to
   print your book so you can properly price your book and make money.
