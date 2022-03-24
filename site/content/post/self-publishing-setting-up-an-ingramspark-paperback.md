@@ -37,6 +37,8 @@ I can't stress enough how important it is to format your files properly prior to
 
 You will need to convert the price of your book for each region you want IngramSpark to list your book in. A [conversion tool](https://www.xe.com/currencyconverter/) will help you figure out an appropriate price in each region based on your US price. I rounded the pricing so it had a nice ending number .49 or .99 (although I'm not sure if that's the standard in other countries).
 
+[Wondering how to price your book?](https://www.adsterling.com/post/self-publishing-setting-your-book-price/)
+
 **Listing**
 
 It takes approximately 4-7 days for a book to be approved with IngramSpark. Once they approve your files they will request you do a final review of the files before you can enable them for distribution.
