@@ -28,6 +28,8 @@ image: ""
 
 [Basic HTML Formatting Allowed](https://kdp.amazon.com/en_US/help/topic/G201189630) (used in Product Description)
 
+[Pricing Calculator](https://kdp.amazon.com/en_US/help/topic/G201834340) (Paperback)
+
 [Linking Your eBook & Paperback](https://kdp.amazon.com/en_US/help/topic/G200652220)
 
 **IngramSpark**
@@ -35,6 +37,8 @@ image: ""
 [IngramSpark](https://www.ingramspark.com/)
 
 [File Creation Guide](https://www.ingramspark.com/hubfs/downloads/file-creation-guide.pdf)
+
+[Pricing Calculator](https://myaccount.ingramspark.com/Portal/Tools/ShippingCalculator)
 
 **Barnes & Noble**
 
