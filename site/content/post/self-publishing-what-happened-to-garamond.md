@@ -3,6 +3,7 @@ title: "Self Publishing: What Happened to Garamond?!"
 date: 2022-03-23T23:55:07.482Z
 description: I recently discovered that Garamond is not available in all
   applications on my Mac.
+image: img/garamond_missing.jpg
 ---
 I released book 2 in my middle grade book series for SOMNIUM back in November of 2021 on [Amazon](https://www.adsterling.com/post/self-publishing-setting-up-an-amazon-paperback/). I've been a bit slow in getting it [posted up on IngramSpark](https://www.adsterling.com/post/self-publishing-setting-up-an-ingramspark-paperback/) and finally got around to doing it this past weekend. To my surprise, although the Garamond font is available in Pages, it is no longer available in Affinity Designer when I went to [export my book in pdf format](https://www.adsterling.com/post/self-publishing-exporting-a-manuscript-for-ingramspark/). I looked in my FontBook and realized there is no Garamond font listed there, so I'm not even quite sure how it's available in Pages aside from it being part of the operating system.
 
