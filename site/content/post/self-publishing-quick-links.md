@@ -22,6 +22,8 @@ image: ""
 
 [eBook Cover Specifications](https://kdp.amazon.com/en_US/help/topic/G200645690) (eBook)
 
+[Royalty Options](https://kdp.amazon.com/en_US/help/topic/G200644210) (eBook)
+
 [Paperback Manuscript Templates](https://kdp.amazon.com/en_US/help/topic/G201834230) (Paperback)
 
 [Paperback Cover Templates](https://kdp.amazon.com/en_US/cover-templates?ref_=kdp_ts_pb_cov) (Paperback)
