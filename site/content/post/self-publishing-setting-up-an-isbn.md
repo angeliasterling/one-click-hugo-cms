@@ -19,7 +19,7 @@ The following information is required to set up your ISBN:
 * Publication Date (see below)
 * Target Audience (selected from a list provided)
 * Title Status (this will most likely be "Active Record" if you are setting up a new book to sell)
-* Price (this is the price you intend to have listed on the back of the book). [Not sure how set a price?](https://www.adsterling.com/post/self-publishing-setting-your-book-price/)
+* Price (this is the price you intend to have listed on the back of the book). [Not sure how price your book?](https://www.adsterling.com/post/self-publishing-setting-your-book-price/)
 
 There are other fields available that I would recommend filling in as it will help services find your book, but that is something you can always go back and fill in later. Just be aware that any changes you make require that same up to 48 hour "processing" period before they are considered live.
 
