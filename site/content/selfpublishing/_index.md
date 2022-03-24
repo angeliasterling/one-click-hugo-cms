@@ -38,6 +38,8 @@ linksection:
       links:
         - linkurl: /post/self-publishing-quick-links/
           linktext: "Self-Publishing: Quick Links"
+        - linkurl: /post/self-publishing-setting-your-book-price/
+          linktext: "Self-Publishing: Pricing Your Book"
     - title: ISBNs
       links:
         - linkurl: /post/self-publishing-purchasing-isbns/
