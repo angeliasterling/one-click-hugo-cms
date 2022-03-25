@@ -28,6 +28,7 @@ In order to complete setup for your eBook you'll need the following:
 * Your eBook ISBN if you are using an [ISBN you've purchased](/post/self-publishing-purchasing-isbns/).
 * Your cover [formatted properly](https://kdp.amazon.com/en_US/help/topic/G200645690). Kindle does have a tool to create your own cover called [Cover Creator](https://kdp.amazon.com/en_US/help/topic/G201113520), but I did not use it so I can't speak to how well it works.
 * Your .epub file or .kpf file created using Kindle Create.
+* [Series information](https://www.adsterling.com/post/self-publishing-amazon-series-page/), if you have one
 
 **Description**
 
