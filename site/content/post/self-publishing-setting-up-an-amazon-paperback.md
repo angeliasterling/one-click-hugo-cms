@@ -30,6 +30,7 @@ In order to complete setup for your paperback you'll need the following:
 * The imprint you used when setting up your ISBN account. You can find this in your Bowker account by going to My Account > My Profile Data > My Company. If you want to set up your own publishing company you should [set up the Business Entity](/post/self-publishing-setting-up-a-business-entity) first. You cannot go back and change this on your Amazon listing later.
 * Your cover formatted properly. KDP does have a tool to create your own cover called [Cover Creator](https://kdp.amazon.com/en_US/help/topic/G201113520), but I did not use it so I can't speak to how well it works.
 * Your .pdf file or other accepted format of your manuscript.
+* [Series information](https://www.adsterling.com/post/self-publishing-amazon-series-page/), if you have one.
 * Your published date. I left this blank since it was the first place I published. As I noted in the [setting up your ISBN](/post/self-publishing-setting-up-an-isbn/) post, this led to a mismatch in Bowker and on Amazon due to not knowing exactly when my book would be live. Since I was ready to publish immediately I didn't future date everything, but that might have been the best way to get matching published dates.
 * Your price. [Not sure how to price your book?](https://www.adsterling.com/post/self-publishing-setting-your-book-price/)
 
