@@ -54,6 +54,8 @@ linksection:
           linktext: "Self-Publishing: Setting up an Amazon Paperback"
         - linkurl: /post/self-publishing-amazon-author-page/
           linktext: "Self-Publishing: Amazon Author Page"
+        - linkurl: https://www.adsterling.com/post/self-publishing-amazon-series-page/
+          linktext: "Self Publishing: Amazon Series Page"
         - linkurl: /post/marketing-amazon-free-book-promotion
           linktext: "Marketing: Amazon Free Book Promotion"
     - title: IngramSpark
