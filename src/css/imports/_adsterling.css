@@ -223,6 +223,11 @@ a:hover {
     clear: both;
 }
 
+.angria-text {
+    font-family: 'Kanit', sans-serif;;
+    clear: both;
+}
+
 /* btn */
 .btn {
     background-color: #009688;
